@@ -9,12 +9,14 @@ A curated list of awesome cryptocurrency and fintech resources. Early stage work
     * [Books](#books)
     * [Collections](#collections)
     * [Courses](#courses)
+    * [Glossaries](#glossaries)
     * [Infographics](#infographics)
     * [Misc](#misc)
     * [News and Articles](#news-and-articles)
     * [Newsletters](#newsletters)
     * [Organisations](#organisations)
     * [Questions and Answers](#questions-and-answers)
+    * [Research](#research)
 * [Cryptocurrencies](#cryptocurrencies)
     * [Bitcoin](#bitcoin)
     * [Ethereum](#ethereum)
@@ -51,6 +53,10 @@ A curated list of awesome cryptocurrency and fintech resources. Early stage work
 * [Awesome Bitcoin](https://github.com/JoshuaEstes/awesome-bitcoin)
 * [Awesome Bitcoin Developer](https://github.com/btcbrdev/awesome-btcdev)
 * [Awesome Blockchain](https://github.com/igorbarinov/awesome-blockchain)
+* [Awesome Decentralized](https://github.com/steve-vincent/awesome-decentralized)
+* [Awesome Peer-to-peer](https://github.com/kgryte/awesome-peer-to-peer)
+* [Awesome Ethereum](https://github.com/btomashvili/awesome-ethereum)
+* [Awesome Ethereum](https://github.com/void4/awesome-ethereum)
 * [Decentral Station](https://decentralstation.squarespace.com/)
 
 ## Courses
@@ -67,9 +73,22 @@ A curated list of awesome cryptocurrency and fintech resources. Early stage work
 ## News and Articles
 
 * [Bitcoin Magazine](https://bitcoinmagazine.com/)
+* [BTC Feed](https://btc-feed.com/)
 * [Coindesk](http://www.coindesk.com/)
 * [Forklog](http://forklog.net/)
+* [The Merkle](http://themerkle.com/)
 * [Zero Block](https://zeroblock.com/)
 
+## Research
 
+* [Epic List of Bitcoin Research](https://docs.google.com/spreadsheets/d/1VaWhbAj7hWNdiE73P-W-wrl5a0WNgzjofmZXe0Rh5sg/edit#gid=0)
+
+# Cryptocurrencies
+
+## Bitcoin
+
+## Ethereum
+* [Ethereum 101](http://www.ethereum-101.com/)
+* [Ethereum Resource List](https://souptacular.gitbooks.io/ethereum-tutorials-and-tips-by-hudson/content/giant_ethereum_resource_list.html)
+* [Ethereum Starter Guide](https://www.reddit.com/r/ethereum/comments/3vxvlx/starter_guide_almost_all_the_links_youll_need_to/)
 
