@@ -11,7 +11,7 @@ A curated list of awesome cryptocurrency and fintech resources. Early stage work
     * [Courses](#courses)
     * [Infographics](#infographics)
     * [Misc](#misc)
-    * [News and Articles](#news)
+    * [News and Articles](#news-and-articles)
     * [Newsletters](#newsletters)
     * [Organisations](#organisations)
     * [Questions and Answers](#questions-and-answers)
