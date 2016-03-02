@@ -39,8 +39,12 @@ A curated list of awesome cryptocurrency and fintech resources. Early stage work
 
 ## Blogs
 
+* [Bits on Blocks](http://bitsonblocks.net/)
 * [CryptoIQ](http://blog.cryptoiq.ca/)
 * [Freedom to Tinker](https://freedom-to-tinker.com/)
+* [Hacking Distributed](http://hackingdistributed.com/)
+* [Hashing It](http://hashingit.com/)
+* [Richard Gendal Brown](http://gendal.me/)
 
 ## Books
 
