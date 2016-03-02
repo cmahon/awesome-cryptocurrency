@@ -1,2 +1,3 @@
 # awesome-crypto-iq
-Cryptocurrency resources
+
+Cryptocurrency resources. Content pending.
