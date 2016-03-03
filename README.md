@@ -1,6 +1,6 @@
 # Awesome CryptoIQ [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated list of awesome cryptocurrency and fintech resources. Early stage work in progress.
+A curated list of awesome blockchain, cryptocurrency and fintech resources. Early stage work in progress.
 
 # Contents
 
@@ -9,29 +9,35 @@ A curated list of awesome cryptocurrency and fintech resources. Early stage work
     * [Books](#books)
     * [Charts and Statistics](#charts-and-statistics)
     * [Collections](#collections)
+    * [Communities](#communities)
+    * [Conferences](#conferences)
     * [Courses](#courses)
+    * [Distributed Autonomous Entities](#distributed-autonomous-entities)
+    * [Futurism](#futurism)
     * [Glossaries](#glossaries)
+    * [Humour](#humour)
     * [Infographics](#infographics)
     * [Misc](#misc)
     * [News and Articles](#news-and-articles)
     * [Newsletters](#newsletters)
     * [Organisations](#organisations)
     * [Questions and Answers](#questions-and-answers)
+    * [Reports](#reports)
     * [Research](#research-academic)
     * [Researchers](#researchers-academic)
     * [Tutorials](#tutorials)
-* [Applications and Solutions]()
+* [Applications and Solutions](applications-and-solutions)
     * [Analytics](#analytics)
     * [ATMs](#atms)
     * [Banks](#banks)
     * [Brokers](#brokers)
     * [Capital Markets](#capital-markets)
     * [Compliance](#compliance)
-    * [Data](#data)
     * [Exchanges](#exchanges)
     * [Explorers](#explorers)
     * [Faucets](#faucets)
     * [Financial Data](#financial-data)
+    * [Identity](#identity)
     * [Insurance](#insurance)
     * [Investments](#investments)
     * [Merchants](#merchants)
@@ -50,8 +56,16 @@ A curated list of awesome cryptocurrency and fintech resources. Early stage work
     * [Encoding](#encoding)
 * [Cryptocurrencies](#cryptocurrencies)
     * [Bitcoin](#bitcoin)
+    * [Dash](#dash)
+    * [Dogecoin](#dogecoin)
     * [Ethereum](#ethereum)
+    * [Factom](#factom)
+    * [Litecoin](#litecoin)
+    * [MaidSafeCoin](#maidsafecoin)
+    * [Monero](#monero)
+    * [NXT](#nxt)
     * [Ripple](#ripple)
+    * [Stellar](#stellar)
 * [Cryptography](#cryptography)
     * [Books](#cryptography-books)
     * [Courses](#cryptography-courses)
@@ -59,6 +73,10 @@ A curated list of awesome cryptocurrency and fintech resources. Early stage work
 * [Economics](#economics)
     * [Crypto-economics](#crypto-economics)
     * [Money and banking](#money-and-banking)
+* [Infrastructure](#infrastructure)
+    * [Mining](#mining)
+    * [Data Storage](#data-storage)
+* [Investors](#investors)
 * [Middleware and Services](#middleware-and-services)
     * [APIs](#apis)
     * [Consultants](#consultants)
@@ -67,9 +85,6 @@ A curated list of awesome cryptocurrency and fintech resources. Early stage work
     * [Services](#services)
     * [Smart Contracts](#smart-contracts)
     * [Software Development](#software-development)
-* [Infrastructure](#infrastructure)
-    * [Mining](#mining)
-    * [Data Storage](#data-storage)
 * [Technologies](#technology)
     * [Consensus mechanisms](#consensus-mechanisms)
     * [Cross-chain solutions](#cross-chain-solutions)
@@ -128,6 +143,10 @@ A curated list of awesome cryptocurrency and fintech resources. Early stage work
 
 * [Brave New Coin - Glossary](http://bravenewcoin.com/resources/glossary/)
 
+## Infographics
+
+* [BlockTech in Financial Services VirtualScape](http://startupmanagement.org/2015/12/08/update-to-the-global-landscape-of-blockchain-companies-in-financial-services/)
+
 ## News and Articles
 
 * [Bitcoin Magazine](https://bitcoinmagazine.com/)
@@ -136,6 +155,15 @@ A curated list of awesome cryptocurrency and fintech resources. Early stage work
 * [Forklog](http://forklog.net/)
 * [The Merkle](http://themerkle.com/)
 * [Zero Block](https://zeroblock.com/)
+
+## Newsletters
+
+* [Crypto Brief](http://cryptobrief.com/)
+* [The Week in Bitcoin](http://theweekinbitcoin.com/)
+
+## Reports
+
+* [CoinDesk - State of Bitcoin and Blockchain 2016](http://www.coindesk.com/research/state-bitcoin-blockchain-2016/)
 
 ## Research
 
@@ -172,6 +200,7 @@ A curated list of awesome cryptocurrency and fintech resources. Early stage work
 ## Ethereum
 
 * [Ethereum](https://ethereum.org/)
+* [Ethereum Blog](https://blog.ethereum.org/)
 * [Ethereum 101](http://www.ethereum-101.com/)
 * [Ethereum Resource List](https://souptacular.gitbooks.io/ethereum-tutorials-and-tips-by-hudson/content/giant_ethereum_resource_list.html)
 * [Ethereum Starter Guide](https://www.reddit.com/r/ethereum/comments/3vxvlx/starter_guide_almost_all_the_links_youll_need_to/)
@@ -183,5 +212,11 @@ A curated list of awesome cryptocurrency and fintech resources. Early stage work
 ## Ripple
 
 * [Ripple](https://ripple.com/)
+
+# Investors
+
+* [CoinDesk - Bitcoin Venture Capital Investments](http://www.coindesk.com/bitcoin-venture-capital/)
+
+
 
 
