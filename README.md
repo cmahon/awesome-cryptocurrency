@@ -23,8 +23,7 @@ A curated list of awesome blockchain, cryptocurrency and fintech resources. Earl
     * [Organisations](#organisations)
     * [Questions and Answers](#questions-and-answers)
     * [Reports](#reports)
-    * [Research](#research-academic)
-    * [Researchers](#researchers-academic)
+    * [Research](#research)
     * [Tutorials](#tutorials)
 * [Applications and Solutions](applications-and-solutions)
     * [Analytics](#analytics)
@@ -81,7 +80,6 @@ A curated list of awesome blockchain, cryptocurrency and fintech resources. Earl
     * [APIs](#apis)
     * [Consultants](#consultants)
     * [Platforms](#platforms)
-    * [Research](#research-service)
     * [Services](#services)
     * [Smart Contracts](#smart-contracts)
     * [Software Development](#software-development)
@@ -167,7 +165,16 @@ A curated list of awesome blockchain, cryptocurrency and fintech resources. Earl
 
 ## Research
 
+### Research - Archives
+
+* [arXiv.org](http://arxiv.org/)
+* [Cryptology ePrint](http://eprint.iacr.org/)
+* [SSRN](www.ssrn.com)
+
+### Research - Collections
+
 * [Bitcoin Wiki - Research](https://en.bitcoin.it/wiki/Research)
+* [CoinDesk - Top 10 Papers of 2015](http://www.coindesk.com/10-must-read-cryptocurrency-research-papers-from-2015/)
 * [Epic List of Bitcoin Research](https://docs.google.com/spreadsheets/d/1VaWhbAj7hWNdiE73P-W-wrl5a0WNgzjofmZXe0Rh5sg/edit#gid=0)
 * [Hashing It - Research Resources](http://hashingit.com/research-resources)
 * [Institute for Blockchain Studies](http://www.blockchainstudies.org/)
@@ -175,12 +182,21 @@ A curated list of awesome blockchain, cryptocurrency and fintech resources. Earl
 * [Nakamoto Institute - Literature](http://nakamotoinstitute.org/research/)
 * [Nakamoto Institute - Research](http://nakamotoinstitute.org/research/)
 
-## Researchers
+### Research - Individuals
 
 * [Bonneau,Joseph](http://jbonneau.com/)
 * [Clark, Jeremy](http://users.encs.concordia.ca/~clark/index.php)
 * [Karame, Ghassan](http://ghassankarame.com/)
 * [Miller, Andrew](http://cs.umd.edu/~amiller/)
+
+### Research - Journals
+
+* [Ledger Journal](http://ledgerjournal.org/ojs/index.php/ledger/index)
+
+### Research - Organisations
+
+* [Bitfury](http://bitfury.com/white-papers-research)
+* [Dfinity](http://dfinity.io/about.html)
 
 ## Tutorials
 
@@ -212,6 +228,12 @@ A curated list of awesome blockchain, cryptocurrency and fintech resources. Earl
 ## Ripple
 
 * [Ripple](https://ripple.com/)
+
+# Middleware and Services
+
+## Smart Contracts
+
+* [COALA - Coalition of Automated Legal Applications](http://coala.global/)
 
 # Investors
 
