@@ -12,18 +12,19 @@ A curated list of awesome blockchain, cryptocurrency and fintech resources. Earl
     * [Communities](#communities)
     * [Conferences](#conferences)
     * [Courses](#courses)
+    * [Directories](#directories)
     * [Distributed Autonomous Entities](#distributed-autonomous-entities)
-    * [Futurism](#futurism)
+    * [Crypto-futurism](#crypto-futurism)
     * [Glossaries](#glossaries)
     * [Humour](#humour)
     * [Infographics](#infographics)
-    * [Misc](#misc)
+    * [Miscellaneous](#miscellaneous)
     * [News and Articles](#news-and-articles)
     * [Newsletters](#newsletters)
     * [Organisations](#organisations)
     * [Questions and Answers](#questions-and-answers)
     * [Reports](#reports)
-    * [Research](#research)
+    * [Trading](#trading)
     * [Tutorials](#tutorials)
 * [Applications and Solutions](applications-and-solutions)
     * [Analytics](#analytics)
@@ -66,9 +67,6 @@ A curated list of awesome blockchain, cryptocurrency and fintech resources. Earl
     * [Ripple](#ripple)
     * [Stellar](#stellar)
 * [Cryptography](#cryptography)
-    * [Books](#cryptography-books)
-    * [Courses](#cryptography-courses)
-    * [Zero Knowledge](#cryptography-zero-knowledge)
 * [Economics](#economics)
     * [Crypto-economics](#crypto-economics)
     * [Money and banking](#money-and-banking)
@@ -83,9 +81,15 @@ A curated list of awesome blockchain, cryptocurrency and fintech resources. Earl
     * [Services](#services)
     * [Smart Contracts](#smart-contracts)
     * [Software Development](#software-development)
+* [Open-source Software](#open-source-software)
+* [Research](#research)
+    * [Archives](#research-archives)
+    * [Collections](#research-collections)
+    * [Individuals](#research-individuals)
+    * [Journals](#research-journals)
+    * [Organisations](#research-organisations)
 * [Technologies](#technology)
     * [Consensus mechanisms](#consensus-mechanisms)
-    * [Cross-chain solutions](#cross-chain-solutions)
     * [Off-chain solutions](#off-chain-solutions)
 
 # General Resources
@@ -175,9 +179,13 @@ A curated list of awesome blockchain, cryptocurrency and fintech resources. Earl
 
 * [CoinDesk - State of Bitcoin and Blockchain 2016](http://www.coindesk.com/research/state-bitcoin-blockchain-2016/)
 
-## Applications and Solutions
+## Tutorials
 
-### Exchanges
+* [21 Inc - Tutorials](https://21.co/learn/)
+
+# Applications and Solutions
+
+## Exchanges
 
 * [BitMEX](https://www.bitmex.com/)
 * [Bitstamp](https://www.bitstamp.net/)
@@ -195,7 +203,7 @@ A curated list of awesome blockchain, cryptocurrency and fintech resources. Earl
 * [Poloniex](https://poloniex.com/)
 * [Shapeshift](https://shapeshift.io/)
 
-### Explorers
+## Explorers
 
 * [Blockr](http://blockr.io/)
 * [Blockchain.info](https://blockchain.info/)
@@ -203,45 +211,22 @@ A curated list of awesome blockchain, cryptocurrency and fintech resources. Earl
 * [Smartbit](https://www.smartbit.com.au/)
 * [webbtc](https://webbtc.com/)
 
-## Research
+# Computer Science
 
-### Research - Archives
+## Data Structures
 
-* [arXiv.org](http://arxiv.org/)
-* [Cryptology ePrint](http://eprint.iacr.org/)
-* [SSRN](www.ssrn.com)
+* [Distributed Hash Table](https://en.wikipedia.org/wiki/Distributed_hash_table)
+* [Merkle Tree](https://en.wikipedia.org/wiki/Merkle_tree)
+* [Patricia Tree (Ethereum)](https://github.com/ethereum/wiki/wiki/Patricia-Tree)
+* [Radix Tree](https://en.wikipedia.org/wiki/Radix_tree)
 
-### Research - Collections
+## Distributed Systems
 
-* [Bitcoin Wiki - Research](https://en.bitcoin.it/wiki/Research)
-* [CABRA - Comprehensive Academic Bitcoin Research Archive](https://github.com/cdecker/btcresearch)
-* [CoinDesk - Top 10 Papers of 2015](http://www.coindesk.com/10-must-read-cryptocurrency-research-papers-from-2015/)
-* [Epic List of Bitcoin Research](https://docs.google.com/spreadsheets/d/1VaWhbAj7hWNdiE73P-W-wrl5a0WNgzjofmZXe0Rh5sg/edit#gid=0)
-* [Hashing It - Research Resources](http://hashingit.com/research-resources)
-* [Institute for Blockchain Studies](http://www.blockchainstudies.org/)
-* [Jeremy Clark - Bibliographies](http://users.encs.concordia.ca/~clark/biblio.php)
-* [Nakamoto Institute - Literature](http://nakamotoinstitute.org/research/)
-* [Nakamoto Institute - Research](http://nakamotoinstitute.org/research/)
-
-### Research - Individuals
-
-* [Bonneau,Joseph](http://jbonneau.com/)
-* [Clark, Jeremy](http://users.encs.concordia.ca/~clark/index.php)
-* [Karame, Ghassan](http://ghassankarame.com/)
-* [Miller, Andrew](http://cs.umd.edu/~amiller/)
-
-### Research - Journals
-
-* [Ledger Journal](http://ledgerjournal.org/ojs/index.php/ledger/index)
-
-### Research - Organisations
-
-* [Bitfury](http://bitfury.com/white-papers-research)
-* [Dfinity](http://dfinity.io/about.html)
-
-## Tutorials
-
-* [21 Inc - Tutorials](https://21.co/learn/)
+* [Byzantine Fault Tolerance](https://en.wikipedia.org/wiki/Byzantine_fault_tolerance)
+* [Consensus and Organising Coffee](https://www.youtube.com/watch?v=jn3DBzr--Ok)
+* [Paxos - A Really Beautiful Algorithm for Distributed Consensus](http://www.goodmath.org/blog/2015/01/30/paxos-a-really-beautiful-protocol-for-distributed-consensus/)
+* [Simpler Consensus with Raft](http://www.goodmath.org/blog/2015/02/14/simpler-consensus-with-raft/)
+* [What We Talk About When We Talk About Distibuted Systems](https://videlalvaro.github.io/2015/12/learning-about-distributed-systems.html)
 
 # Cryptocurrencies
 
@@ -271,6 +256,16 @@ A curated list of awesome blockchain, cryptocurrency and fintech resources. Earl
 
 * [Ripple](https://ripple.com/)
 
+# Cryptography
+
+* [A Graduate Course in Applied Cryptography](https://crypto.stanford.edu/~dabo/cryptobook/)
+* [Coursera - Cryptography 1](https://www.coursera.org/learn/crypto)
+* [Elliptic Curve Cryptography - A Gentle Introduction](http://andrea.corbellini.name/2015/05/17/elliptic-curve-cryptography-a-gentle-introduction/)
+* [Matthew Green - Cryptography Resources](http://blog.cryptographyengineering.com/p/useful-cryptography-resources.html)
+* [The Matasano Crypto Challenges](http://cryptopals.com/)
+* [Understanding Cryptography](http://crypto-textbook.com/)
+* [Zero Knowledge Proofs - An Illustrated Primer](http://blog.cryptographyengineering.com/2014/11/zero-knowledge-proofs-illustrated-primer.html)
+
 # Middleware and Services
 
 ## Smart Contracts
@@ -279,8 +274,64 @@ A curated list of awesome blockchain, cryptocurrency and fintech resources. Earl
 
 # Investors
 
-* [CoinDesk - Bitcoin Venture Capital Investments](http://www.coindesk.com/bitcoin-venture-capital/)
+* [Blockchain Capital](http://www.blockchain.capital/index.html)
+* [Boost VC](https://www.boost.vc/)
+* [Bitcoin Venture Capital Investments (CoinDesk)](http://www.coindesk.com/bitcoin-venture-capital/)
+* [Digital Currency Group](dcg.co)
+* [Panterra Capital](https://panteracapital.com/)
 
+# Open-source Software
+
+# Research
+
+## Research - Archives
+
+* [arXiv.org](http://arxiv.org/)
+* [Cryptology ePrint](http://eprint.iacr.org/)
+* [SSRN](www.ssrn.com)
+
+## Research - Collections
+
+* [Bitcoin Wiki - Research](https://en.bitcoin.it/wiki/Research)
+* [CABRA - Comprehensive Academic Bitcoin Research Archive](https://github.com/cdecker/btcresearch)
+* [CoinDesk - Top 10 Papers of 2015](http://www.coindesk.com/10-must-read-cryptocurrency-research-papers-from-2015/)
+* [Epic List of Bitcoin Research](https://docs.google.com/spreadsheets/d/1VaWhbAj7hWNdiE73P-W-wrl5a0WNgzjofmZXe0Rh5sg/edit#gid=0)
+* [Hashing It - Research Resources](http://hashingit.com/research-resources)
+* [Institute for Blockchain Studies](http://www.blockchainstudies.org/)
+* [Jeremy Clark - Bibliographies](http://users.encs.concordia.ca/~clark/biblio.php)
+* [Nakamoto Institute - Literature](http://nakamotoinstitute.org/research/)
+* [Nakamoto Institute - Research](http://nakamotoinstitute.org/research/)
+
+## Research - Individuals
+
+* [Bonneau,Joseph](http://jbonneau.com/)
+* [Clark, Jeremy](http://users.encs.concordia.ca/~clark/index.php)
+* [Karame, Ghassan](http://ghassankarame.com/)
+* [Miller, Andrew](http://cs.umd.edu/~amiller/)
+
+## Research - Journals
+
+* [Ledger Journal](http://ledgerjournal.org/ojs/index.php/ledger/index)
+
+## Research - Organisations
+
+* [Bitfury](http://bitfury.com/white-papers-research)
+* [Dfinity](http://dfinity.io/about.html)
+
+# Technologies
+
+## Consensus Mechanisms
+
+* [Nothing is Cheaper Than Proof Of Work](http://www.truthcoin.info/blog/pow-cheapest/)
+* [Proof of Stake Resources](https://souptacular.gitbooks.io/ethereum-tutorials-and-tips-by-hudson/content/proof-of-stake_resources.html)
+* [The Benefits of Proof of Work](http://bytemaster.github.io/article/2016/01/04/The-Benefits-of-Proof-of-Work/)
+
+## Off-chain and Cross-chain Solutions
+
+* [Atomic cross-chain swaps](https://en.bitcoin.it/wiki/Atomic_cross-chain_trading)
+* [BTC Relay](http://btcrelay.org/)
+* [Lightning Network](https://lightning.network/)
+* [Sidechains](https://blockstream.com/sidechains.pdf)
 
 
 
