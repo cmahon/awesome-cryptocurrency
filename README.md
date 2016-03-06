@@ -316,6 +316,7 @@ A curated list of awesome blockchain, cryptocurrency and fintech resources. Earl
 ## Research - Organisations
 
 * [Bitfury](http://bitfury.com/white-papers-research)
+* [CryptoIQ](http://cryptoiq.ca/)
 * [Dfinity](http://dfinity.io/about.html)
 
 # Technologies
