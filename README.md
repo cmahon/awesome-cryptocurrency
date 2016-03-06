@@ -7,7 +7,7 @@ A curated list of awesome blockchain, cryptocurrency and fintech resources. Earl
 * [General Resources](#general-resources)
     * [Blogs](#blogs)
     * [Books](#books)
-    * [Charts and Statistics](#charts-and-statistics)
+    * [Charts and Data](#charts-and-data)
     * [Collections](#collections)
     * [Communities](#communities)
     * [Conferences](#conferences)
@@ -104,6 +104,21 @@ A curated list of awesome blockchain, cryptocurrency and fintech resources. Earl
 * [Bitcoin and Cryptocurrency Technologies](https://d28rh4a8wq0iu5.cloudfront.net/bitcointech/readings/princeton_bitcoin_book.pdf?a=1)
 * [Mastering Bitcoin](http://chimera.labs.oreilly.com/books/1234000001802/index.html)
 
+## Charts and Data
+
+* [Bitcoin Average](https://bitcoinaverage.com)
+* [Bitcoin Charts](http://bitcoincharts.com/)
+* [Bitcoin Wisdom](https://bitcoinwisdom.com/)
+* [Bitcoinity](http://bitcoinity.org/markets)
+* [Bitnodes](https://bitnodes.21.co/)
+* [Coinmarketcap](http://coinmarketcap.com/)
+* [Coin Dance](https://coin.dance/)
+* [Cryptocoin Charts](http://www.cryptocoincharts.info/)
+* [Cryptocompare](https://www.cryptocompare.com/)
+* [CryptoIndex](http://cryptoindex.com)
+* [Smartbit - Charts](https://www.smartbit.com.au/charts)
+* [TradeBlock](https://tradeblock.com/markets)
+
 ## Collections
 
 * [Awesome Bitcoin](https://github.com/igorbarinov/awesome-bitcoin)
@@ -117,14 +132,6 @@ A curated list of awesome blockchain, cryptocurrency and fintech resources. Earl
 * [Bitcoin.org - Resources](https://bitcoin.org/en/resources)
 * [Decentral Station](https://decentralstation.squarespace.com/)
 * [Programming Bitcoin Reading List](https://github.com/jashmenn/bitcoin-reading-list)
-
-## Charts and Statistics
-
-* [Coinmarketcap](http://coinmarketcap.com/)
-* [Coin Dance](https://coin.dance/)
-* [Cryptocoin Charts](http://www.cryptocoincharts.info/)
-* [Cryptocompare](https://www.cryptocompare.com/)
-* [CryptoIndex](http://cryptoindex.com)
 
 ## Courses
 
@@ -140,6 +147,11 @@ A curated list of awesome blockchain, cryptocurrency and fintech resources. Earl
 ## Glossaries
 
 * [Brave New Coin - Glossary](http://bravenewcoin.com/resources/glossary/)
+* [Ethereum - Glossary](https://github.com/ethereum/wiki/wiki/Glossary)
+
+## Humour
+
+* [Bitcoin Obituaries](https://99bitcoins.com/bitcoinobituaries/)
 
 ## Infographics
 
@@ -163,6 +175,34 @@ A curated list of awesome blockchain, cryptocurrency and fintech resources. Earl
 
 * [CoinDesk - State of Bitcoin and Blockchain 2016](http://www.coindesk.com/research/state-bitcoin-blockchain-2016/)
 
+## Applications and Solutions
+
+### Exchanges
+
+* [BitMEX](https://www.bitmex.com/)
+* [Bitstamp](https://www.bitstamp.net/)
+* [BTC China](https://btcchina.com)
+* [BTC-e](https://btc-e.com/)
+* [CEX.IO](https://cex.io/)
+* [Coinbase](https://www.coinbase.com/)
+* [Gatecoin](https://gatecoin.com/)
+* [Gemini](https://gemini.com/)
+* [Huobi](https://www.huobi.com/)
+* [itBit](https://www.itbit.com/h/exchange)
+* [Local Bitcoins](https://localbitcoins.com/)
+* [Kraken](https://www.kraken.com/)
+* [OKCoin](https://www.okcoin.com)
+* [Poloniex](https://poloniex.com/)
+* [Shapeshift](https://shapeshift.io/)
+
+### Explorers
+
+* [Blockr](http://blockr.io/)
+* [Blockchain.info](https://blockchain.info/)
+* [etherchain.org](https://etherchain.org/)
+* [Smartbit](https://www.smartbit.com.au/)
+* [webbtc](https://webbtc.com/)
+
 ## Research
 
 ### Research - Archives
@@ -174,6 +214,7 @@ A curated list of awesome blockchain, cryptocurrency and fintech resources. Earl
 ### Research - Collections
 
 * [Bitcoin Wiki - Research](https://en.bitcoin.it/wiki/Research)
+* [CABRA - Comprehensive Academic Bitcoin Research Archive](https://github.com/cdecker/btcresearch)
 * [CoinDesk - Top 10 Papers of 2015](http://www.coindesk.com/10-must-read-cryptocurrency-research-papers-from-2015/)
 * [Epic List of Bitcoin Research](https://docs.google.com/spreadsheets/d/1VaWhbAj7hWNdiE73P-W-wrl5a0WNgzjofmZXe0Rh5sg/edit#gid=0)
 * [Hashing It - Research Resources](http://hashingit.com/research-resources)
@@ -218,6 +259,7 @@ A curated list of awesome blockchain, cryptocurrency and fintech resources. Earl
 * [Ethereum](https://ethereum.org/)
 * [Ethereum Blog](https://blog.ethereum.org/)
 * [Ethereum 101](http://www.ethereum-101.com/)
+* [ethstats](https://ethstats.net/)
 * [Ethereum Resource List](https://souptacular.gitbooks.io/ethereum-tutorials-and-tips-by-hudson/content/giant_ethereum_resource_list.html)
 * [Ethereum Starter Guide](https://www.reddit.com/r/ethereum/comments/3vxvlx/starter_guide_almost_all_the_links_youll_need_to/)
 * [Homestead Release FAQ](https://www.reddit.com/r/ethereum/comments/48arax/homestead_release_faq/)
