@@ -11,10 +11,10 @@ A curated list of awesome blockchain, cryptocurrency and fintech resources. Earl
     * [Collections](#collections)
     * [Communities](#communities)
     * [Conferences](#conferences)
-    * [Courses](#courses)
     * [Directories](#directories)
     * [Distributed Autonomous Entities](#distributed-autonomous-entities)
     * [Crypto-futurism](#crypto-futurism)
+    * [Education](#education)
     * [Glossaries](#glossaries)
     * [Humour](#humour)
     * [Infographics](#infographics)
@@ -56,6 +56,7 @@ A curated list of awesome blockchain, cryptocurrency and fintech resources. Earl
     * [Encoding](#encoding)
 * [Cryptocurrencies](#cryptocurrencies)
     * [Bitcoin](#bitcoin)
+    * [BitShares](#bitshares)
     * [Dash](#dash)
     * [Dogecoin](#dogecoin)
     * [Ethereum](#ethereum)
@@ -120,8 +121,10 @@ A curated list of awesome blockchain, cryptocurrency and fintech resources. Earl
 * [Cryptocoin Charts](http://www.cryptocoincharts.info/)
 * [Cryptocompare](https://www.cryptocompare.com/)
 * [CryptoIndex](http://cryptoindex.com)
+* [Cryptowatch](https://cryptowat.ch/)
 * [Smartbit - Charts](https://www.smartbit.com.au/charts)
 * [TradeBlock](https://tradeblock.com/markets)
+* [Trading View](https://www.tradingview.com/chart/)
 
 ## Collections
 
@@ -137,21 +140,23 @@ A curated list of awesome blockchain, cryptocurrency and fintech resources. Earl
 * [Decentral Station](https://decentralstation.squarespace.com/)
 * [Programming Bitcoin Reading List](https://github.com/jashmenn/bitcoin-reading-list)
 
-## Courses
-
-* [Berkeley - Secure and Intelligent Programming](http://inst.eecs.berkeley.edu/~cs294-116/fa15/)
-* [Princeton - Bitcoin and Cryptocurrency Technologies](https://www.coursera.org/course/bitcointech)
-* [Stanford - Bitcoin and Crypto Currencies](https://crypto.stanford.edu/cs251/)
-* [Stanford - Bitcoin Engineering](http://bitcoin.stanford.edu/)
-* [University of Nicosia - MOOC/MSc in Digital Currency](http://digitalcurrency.unic.ac.cy/)
-* [University of Maryland - Science of Cryptocurrency](http://www.cs.umd.edu/~elaine/teaching/cryptocurrency/cryptocurrency.html)
-* [CCCC - Certified Bitcoin Professional](https://cryptoconsortium.org/certifications/CBP)
-* [Duke - Innovation and Cryptoventures](https://faculty.fuqua.duke.edu/~charvey/550crypto.htm)
-
 ## Glossaries
 
 * [Brave New Coin - Glossary](http://bravenewcoin.com/resources/glossary/)
 * [Ethereum - Glossary](https://github.com/ethereum/wiki/wiki/Glossary)
+
+## Education
+
+* [Berkeley - Secure and Intelligent Programming](http://inst.eecs.berkeley.edu/~cs294-116/fa15/)
+* [Blockchain University](http://blockchainu.co/)
+* [CCCC - Certified Bitcoin Professional](https://cryptoconsortium.org/certifications/CBP)
+* [Duke - Innovation and Cryptoventures](https://faculty.fuqua.duke.edu/~charvey/550crypto.htm)
+* [Princeton - Bitcoin and Cryptocurrency Technologies](https://www.coursera.org/course/bitcointech)
+* [Stanford - Bitcoin and Crypto Currencies](https://crypto.stanford.edu/cs251/)
+* [Stanford - Bitcoin Engineering](http://bitcoin.stanford.edu/)
+* [The Blockchain Education Network](https://blockchainedu.org/)
+* [University of Nicosia - MOOC/MSc in Digital Currency](http://digitalcurrency.unic.ac.cy/)
+* [University of Maryland - Science of Cryptocurrency](http://www.cs.umd.edu/~elaine/teaching/cryptocurrency/cryptocurrency.html)
 
 ## Humour
 
@@ -244,12 +249,13 @@ A curated list of awesome blockchain, cryptocurrency and fintech resources. Earl
 * [Ethereum](https://ethereum.org/)
 * [Ethereum Blog](https://blog.ethereum.org/)
 * [Ethereum 101](http://www.ethereum-101.com/)
-* [ethstats](https://ethstats.net/)
+* [Ethereum Introduction for Software Developers](http://blog.bok.rocks/cryptocurrency/ethereum-introduction-for-software-developers/)
 * [Ethereum Resource List](https://souptacular.gitbooks.io/ethereum-tutorials-and-tips-by-hudson/content/giant_ethereum_resource_list.html)
 * [Ethereum Starter Guide](https://www.reddit.com/r/ethereum/comments/3vxvlx/starter_guide_almost_all_the_links_youll_need_to/)
 * [Homestead Release FAQ](https://www.reddit.com/r/ethereum/comments/48arax/homestead_release_faq/)
 * [Ethereum Github](https://github.com/ethereum/)
 * [Ethereum Wiki](https://github.com/ethereum/wiki)
+* [Ethstats](https://ethstats.net/)
 * [State of the Dapps](http://dapps.ethercasts.com/)
 
 ## Ripple
