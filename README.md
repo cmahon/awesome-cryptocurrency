@@ -22,6 +22,7 @@ A curated list of awesome blockchain, cryptocurrency and fintech resources. Earl
     * [News and Articles](#news-and-articles)
     * [Newsletters](#newsletters)
     * [Organisations](#organisations)
+    * [Podcasts](#podcasts)
     * [Questions and Answers](#questions-and-answers)
     * [Reports](#reports)
     * [Trading](#trading)
@@ -179,6 +180,12 @@ A curated list of awesome blockchain, cryptocurrency and fintech resources. Earl
 
 * [Crypto Brief](http://cryptobrief.com/)
 * [The Week in Bitcoin](http://theweekinbitcoin.com/)
+
+## Podcasts
+
+* [The Bitcoin Knowledge Podcast](http://bitcoin.kn/)
+* [Epicenter Bitcoin](http://epicenterbitcoin.com/)
+* [Let's Talk Bitcoin](https://letstalkbitcoin.com/)
 
 ## Reports
 
