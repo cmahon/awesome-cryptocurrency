@@ -292,7 +292,7 @@ A curated list of awesome blockchain, cryptocurrency and fintech resources. Earl
 * [P2Pool](http://p2pool.org/)
 * [Slush Pool](https://slushpool.com)
 
-## Storage
+## Data Storage
 
 * [Interplanetary File System (IPFS)](https://ipfs.io/)
 * [SAFE Network](https://safenetwork.org/)
