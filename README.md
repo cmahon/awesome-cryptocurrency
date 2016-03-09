@@ -279,6 +279,26 @@ A curated list of awesome blockchain, cryptocurrency and fintech resources. Earl
 * [Understanding Cryptography](http://crypto-textbook.com/)
 * [Zero Knowledge Proofs - An Illustrated Primer](http://blog.cryptographyengineering.com/2014/11/zero-knowledge-proofs-illustrated-primer.html)
 
+# Infrastructure
+
+## Mining
+
+* [21inc](https://21.co/)
+* [Ant Pool](https://www.antpool.com/)
+* [BitFury](http://bitfury.com/)
+* [BTCC](https://www.btcc.com/)
+* [Genesis Mining](https://www.genesis-mining.com/)
+* [KnC Miner](http://www.kncminer.com/)
+* [P2Pool](http://p2pool.org/)
+* [Slush Pool](https://slushpool.com)
+
+## Storage
+
+* [Interplanetary File System (IPFS)](https://ipfs.io/)
+* [SAFE Network](https://safenetwork.org/)
+* [Sia](http://sia.tech/)
+* [Storj](http://storj.io/)
+
 # Middleware and Services
 
 ## Smart Contracts
