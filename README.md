@@ -73,12 +73,14 @@ A curated list of awesome blockchain, cryptocurrency and fintech resources. Earl
     * [Crypto-economics](#crypto-economics)
     * [Money and banking](#money-and-banking)
 * [Infrastructure](#infrastructure)
+    * [Blockchain](#blockchain)
     * [Mining](#mining)
     * [Data Storage](#data-storage)
 * [Investors](#investors)
 * [Middleware and Services](#middleware-and-services)
     * [APIs](#apis)
     * [Consultants](#consultants)
+    * [Meta-Protocols](#meta-protocols)
     * [Platforms](#platforms)
     * [Services](#services)
     * [Smart Contracts](#smart-contracts)
@@ -281,6 +283,15 @@ A curated list of awesome blockchain, cryptocurrency and fintech resources. Earl
 
 # Infrastructure
 
+## Blockchain
+
+* [Blockapps](http://blockapps.net/)
+* [Credits](http://credits.vision/)
+* [Guardtime](https://guardtime.com/)
+* [Hyperledger](https://www.hyperledger.org/)
+* [IBM Open Blockchain (part of Hyperledger)](https://github.com/openblockchain/obc-docs)
+* [Multichain](http://www.multichain.com/)
+
 ## Mining
 
 * [21inc](https://21.co/)
@@ -301,9 +312,25 @@ A curated list of awesome blockchain, cryptocurrency and fintech resources. Earl
 
 # Middleware and Services
 
+## Meta-Protocols
+
+* [Bitbind](https://bitbind.io/)
+* [Chromaway](http://chromaway.com/research/)
+* [CoinSpark](http://coinspark.org/)
+* [Counterparty](http://counterparty.io/docs/protocol_specification/)
+* [Colored Coins](http://coloredcoins.org/)
+* [COLU](https://www.colu.co/)
+* [Factom](http://factom.org/)
+* [Omni Layer](https://github.com/OmniLayer/spec)
+* [Open Assets](https://github.com/OpenAssets/open-assets-protocol)
+
 ## Smart Contracts
 
 * [COALA - Coalition of Automated Legal Applications](http://coala.global/)
+* [Ethereum](https://ethereum.org/)
+* [Lisk](https://lisk.io/)
+* [Rootstock](http://www.rootstock.io/)
+* [SmartContract](http://about.smartcontract.com/)
 
 # Investors
 
