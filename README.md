@@ -61,10 +61,9 @@ A curated list of awesome blockchain, cryptocurrency and fintech resources. Earl
     * [Dash](#dash)
     * [Dogecoin](#dogecoin)
     * [Ethereum](#ethereum)
-    * [Factom](#factom)
     * [Litecoin](#litecoin)
-    * [MaidSafeCoin](#maidsafecoin)
     * [Monero](#monero)
+    * [Namecoin](#namecoin)
     * [NXT](#nxt)
     * [Ripple](#ripple)
     * [Stellar](#stellar)
@@ -118,6 +117,7 @@ A curated list of awesome blockchain, cryptocurrency and fintech resources. Earl
 * [Bitcoin Charts](http://bitcoincharts.com/)
 * [Bitcoin Wisdom](https://bitcoinwisdom.com/)
 * [Bitcoinity](http://bitcoinity.org/markets)
+* [BitinfoCharts](https://bitinfocharts.com/)
 * [Bitnodes](https://bitnodes.21.co/)
 * [Coinmarketcap](http://coinmarketcap.com/)
 * [Coin Dance](https://coin.dance/)
@@ -225,6 +225,10 @@ A curated list of awesome blockchain, cryptocurrency and fintech resources. Earl
 * [Smartbit](https://www.smartbit.com.au/)
 * [webbtc](https://webbtc.com/)
 
+## Identity
+
+* [Onename](https://onename.com/)
+
 # Computer Science
 
 ## Data Structures
@@ -253,6 +257,21 @@ A curated list of awesome blockchain, cryptocurrency and fintech resources. Earl
 * [Bitcoin Wiki](https://en.bitcoin.it/wiki/Main_Page)
 * [Open Bitcoin Privacy Project](http://www.openbitcoinprivacyproject.org/)
 
+## Bitshares
+
+* [Bitshares](https://bitshares.org/)
+* [Bitshares](https://github.com/bitshares)
+
+## Dash
+
+* [Dash](https://www.dash.org/)
+* [Dash Github](https://github.com/dashpay)
+
+## Dogecoin
+
+* [Dogecoin](http://dogecoin.com/)
+* [Dogecoin Github](https://github.com/dogecoin)
+
 ## Ethereum
 
 * [Ethereum](https://ethereum.org/)
@@ -267,9 +286,35 @@ A curated list of awesome blockchain, cryptocurrency and fintech resources. Earl
 * [Ethstats](https://ethstats.net/)
 * [State of the Dapps](http://dapps.ethercasts.com/)
 
+## Litecoin
+
+* [Litecoin](https://litecoin.org/)
+* [Litecoin - Github](https://github.com/litecoin-project)
+
+## Monero
+
+* [Monero](https://getmonero.org/home)
+* [Monero Github](https://github.com/monero-project)
+
+## Namecoin
+
+* [Namecoin](http://namecoin.info/)
+* [Namecoin Github](https://github.com/namecoin)
+
+## Nxt
+
+* [Nxt](https://nxt.org/)
+* [Nxt Bitbucket](https://bitbucket.org/JeanLucPicard/nxt/overview)
+
 ## Ripple
 
 * [Ripple](https://ripple.com/)
+* [Ripple Github](https://github.com/ripple)
+
+## Stellar
+
+* [Stellar](https://www.stellar.org/)
+* [Stellar Github](https://github.com/stellar/)
 
 # Cryptography
 
