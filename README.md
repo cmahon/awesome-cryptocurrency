@@ -308,10 +308,10 @@ A curated list of awesome blockchain, cryptocurrency and fintech resources. Earl
 * [Ethereum Introduction for Software Developers](http://blog.bok.rocks/cryptocurrency/ethereum-introduction-for-software-developers/)
 * [Ethereum Resource List](https://souptacular.gitbooks.io/ethereum-tutorials-and-tips-by-hudson/content/giant_ethereum_resource_list.html)
 * [Ethereum Starter Guide](https://www.reddit.com/r/ethereum/comments/3vxvlx/starter_guide_almost_all_the_links_youll_need_to/)
-* [Homestead Release FAQ](https://www.reddit.com/r/ethereum/comments/48arax/homestead_release_faq/)
 * [Ethereum Github](https://github.com/ethereum/)
 * [Ethereum Wiki](https://github.com/ethereum/wiki)
 * [Ethstats](https://ethstats.net/)
+* [Homestead Release FAQ](https://www.reddit.com/r/ethereum/comments/48arax/homestead_release_faq/)
 * [State of the Dapps](http://dapps.ethercasts.com/)
 
 ## Litecoin
