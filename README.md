@@ -229,6 +229,34 @@ A curated list of awesome blockchain, cryptocurrency and fintech resources. Earl
 
 * [Onename](https://onename.com/)
 
+## Wallets
+
+* [ArcBit](http://arcbit.io/)
+* [Armory](http://www.bitcoinarmory.com/)
+* [Bitcoin Wallet](https://bitcoinwallet.com/)
+* [Blockchain.info](https://blockchain.info/)
+* [breadwallet](http://breadwallet.com/)
+* [Case Wallet](https://choosecase.com/)
+* [Coinbase](https://www.coinbase.com/)
+* [BitGo](https://www.bitgo.com/)
+* [Coinkite](https://coinkite.com/)
+* [Coinprism](https://www.coinprism.com/)
+* [Copay](http://copay.io/)
+* [Darkwallet](https://www.darkwallet.is/)
+* [Airbitz](https://airbitz.co/)
+* [Electrum](https://electrum.org/#home)
+* [GreenAddress](https://greenaddress.it/en/)
+* [Hive](https://www.hivewallet.com/)
+* [KeepKey](https://www.keepkey.com/)
+* [Ledger Wallet](https://www.ledgerwallet.com/)
+* [LUXSTACK](https://luxstack.com/#!/)
+* [MultiBit HD](https://multibit.org/)
+* [Mycelium](https://mycelium.com/)
+* [Pi-Wallet](http://www.pi-wallet.com/)
+* [Samourai Wallet](http://www.samouraiwallet.com/index.html)
+* [TREZOR](https://www.bitcointrezor.com/)
+* [Xapo](https://xapo.com/wallet/)
+
 # Computer Science
 
 ## Data Structures
