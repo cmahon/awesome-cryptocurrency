@@ -451,8 +451,6 @@ A curated list of awesome blockchain, cryptocurrency and fintech resources. Earl
 
 ## Smart Contracts
 
-## Bitshares
-
 * [Bitshares](https://bitshares.org/)
 * [COALA - Coalition of Automated Legal Applications](http://coala.global/)
 * [Ethereum](https://ethereum.org/)
