@@ -9,23 +9,19 @@ A curated list of awesome blockchain, cryptocurrency and fintech resources. Earl
     * [Books](#books)
     * [Charts and Data](#charts-and-data)
     * [Collections](#collections)
-    * [Communities](#communities)
     * [Conferences](#conferences)
     * [Directories](#directories)
     * [Distributed Autonomous Entities](#distributed-autonomous-entities)
-    * [Crypto-futurism](#crypto-futurism)
+    * [Documentaries](#documentaries)
     * [Education](#education)
     * [Glossaries](#glossaries)
     * [Humour](#humour)
     * [Infographics](#infographics)
-    * [Miscellaneous](#miscellaneous)
     * [News and Articles](#news-and-articles)
     * [Newsletters](#newsletters)
     * [Organisations](#organisations)
     * [Podcasts](#podcasts)
-    * [Questions and Answers](#questions-and-answers)
     * [Reports](#reports)
-    * [Trading](#trading)
     * [Tutorials](#tutorials)
 * [Applications and Solutions](applications-and-solutions)
     * [Analytics](#analytics)
@@ -57,7 +53,6 @@ A curated list of awesome blockchain, cryptocurrency and fintech resources. Earl
     * [Encoding](#encoding)
 * [Cryptocurrencies](#cryptocurrencies)
     * [Bitcoin](#bitcoin)
-    * [BitShares](#bitshares)
     * [Dash](#dash)
     * [Dogecoin](#dogecoin)
     * [Ethereum](#ethereum)
@@ -84,7 +79,6 @@ A curated list of awesome blockchain, cryptocurrency and fintech resources. Earl
     * [Services](#services)
     * [Smart Contracts](#smart-contracts)
     * [Software Development](#software-development)
-* [Open-source Software](#open-source-software)
 * [Research](#research)
     * [Archives](#research-archives)
     * [Collections](#research-collections)
@@ -102,8 +96,10 @@ A curated list of awesome blockchain, cryptocurrency and fintech resources. Earl
 * [Bits on Blocks](http://bitsonblocks.net/)
 * [CryptoIQ](http://blog.cryptoiq.ca/)
 * [Freedom to Tinker](https://freedom-to-tinker.com/)
+* [Great Wall Of Numbers](http://www.ofnumbers.com/)
 * [Hacking Distributed](http://hackingdistributed.com/)
 * [Hashing It](http://hashingit.com/)
+* [R3 CEV](http://r3cev.com/blog/)
 * [Richard Gendal Brown](http://gendal.me/)
 
 ## Books
@@ -131,22 +127,32 @@ A curated list of awesome blockchain, cryptocurrency and fintech resources. Earl
 
 ## Collections
 
-* [Awesome Bitcoin](https://github.com/igorbarinov/awesome-bitcoin)
-* [Awesome Bitcoin](https://github.com/JoshuaEstes/awesome-bitcoin)
-* [Awesome Bitcoin Developer](https://github.com/btcbrdev/awesome-btcdev)
 * [Awesome Blockchain](https://github.com/igorbarinov/awesome-blockchain)
 * [Awesome Decentralized](https://github.com/steve-vincent/awesome-decentralized)
 * [Awesome Peer-to-peer](https://github.com/kgryte/awesome-peer-to-peer)
-* [Awesome Ethereum](https://github.com/btomashvili/awesome-ethereum)
-* [Awesome Ethereum](https://github.com/void4/awesome-ethereum)
 * [Bitcoin.org - Resources](https://bitcoin.org/en/resources)
 * [Decentral Station](https://decentralstation.squarespace.com/)
-* [Programming Bitcoin Reading List](https://github.com/jashmenn/bitcoin-reading-list)
 
-## Glossaries
+## Conferences
 
-* [Brave New Coin - Glossary](http://bravenewcoin.com/resources/glossary/)
-* [Ethereum - Glossary](https://github.com/ethereum/wiki/wiki/Glossary)
+* [CoinDesk Events](http://www.coindesk.com/bitcoin-events/)
+
+## Directories
+
+* [Coinmap](https://coinmap.org)
+
+## Distributed Autonomous Entities
+
+* [DAOs, DACs, DAs and More](https://blog.ethereum.org/2014/05/06/daos-dacs-das-and-more-an-incomplete-terminology-guide/)
+* [Distributed Autonomous Organization (Wikipedia)](https://en.wikipedia.org/wiki/Decentralized_autonomous_organization)
+
+## Documentaries
+
+* [Bitcoin: The End of Money As We Know It](https://vimeo.com/ondemand/bitcoin)
+* [BitcoinFilm.org](http://bitcoinfilm.org/)
+* [The Bitcoin Doco](http://thebitcoindoco.com/)
+* [The Bitcoin Phenomenon](https://www.youtube.com/watch?v=6pWblf8COH4)
+* [Ulterior States](http://www.iamsatoshi.com/)
 
 ## Education
 
@@ -161,19 +167,27 @@ A curated list of awesome blockchain, cryptocurrency and fintech resources. Earl
 * [University of Nicosia - MOOC/MSc in Digital Currency](http://digitalcurrency.unic.ac.cy/)
 * [University of Maryland - Science of Cryptocurrency](http://www.cs.umd.edu/~elaine/teaching/cryptocurrency/cryptocurrency.html)
 
+## Glossaries
+
+* [Brave New Coin - Glossary](http://bravenewcoin.com/resources/glossary/)
+* [Ethereum - Glossary](https://github.com/ethereum/wiki/wiki/Glossary)
+
 ## Humour
 
 * [Bitcoin Obituaries](https://99bitcoins.com/bitcoinobituaries/)
 
 ## Infographics
 
+* [Bitcoin's Network In One Infographic](http://bitsonblocks.net/2016/03/14/bitcoins-network-in-one-infographic/)
 * [BlockTech in Financial Services VirtualScape](http://startupmanagement.org/2015/12/08/update-to-the-global-landscape-of-blockchain-companies-in-financial-services/)
 
 ## News and Articles
 
 * [Bitcoin Magazine](https://bitcoinmagazine.com/)
 * [BTC Feed](https://btc-feed.com/)
+* [Coin Journal](http://coinjournal.net/)
 * [Coindesk](http://www.coindesk.com/)
+* [Cryptocoinsnews](https://www.cryptocoinsnews.com/)
 * [Forklog](http://forklog.net/)
 * [The Merkle](http://themerkle.com/)
 * [Zero Block](https://zeroblock.com/)
@@ -183,6 +197,11 @@ A curated list of awesome blockchain, cryptocurrency and fintech resources. Earl
 * [Crypto Brief](http://cryptobrief.com/)
 * [The Week in Bitcoin](http://theweekinbitcoin.com/)
 
+## Organisations
+
+* [Blockchain Alliance](http://www.blockchainalliance.org/)
+* [Digital Currency Council](http://www.digitalcurrencycouncil.com/)
+
 ## Podcasts
 
 * [The Bitcoin Knowledge Podcast](http://bitcoin.kn/)
@@ -191,13 +210,24 @@ A curated list of awesome blockchain, cryptocurrency and fintech resources. Earl
 
 ## Reports
 
-* [CoinDesk - State of Bitcoin and Blockchain 2016](http://www.coindesk.com/research/state-bitcoin-blockchain-2016/)
+* [Blockchain 2015: Strategic Analysis in Financial Services (William Mougayar)](http://startupmanagement.org/2015/12/22/blockchain-2015-strategic-analysis-in-financial-services-slides-deck/)
+* [Blockchain and Bitcoin 2016: A Survey of Global Leaders (Magister Advisors)](http://magisteradvisors.com/blockchain-bitcoin-2016-a-survey-of-global-leaders/)
+* [State of Bitcoin and Blockchain 2016 (CoinDesk)](http://www.coindesk.com/research/state-bitcoin-blockchain-2016/)
 
 ## Tutorials
 
 * [21 Inc - Tutorials](https://21.co/learn/)
 
 # Applications and Solutions
+
+## Analytics
+
+* [Coinalytics](http://coinalytics.co/)
+
+## Compliance
+
+* [Chainalysis](https://chainalysis.com/)
+* [Elliptic](https://www.elliptic.co/)
 
 ## Exchanges
 
@@ -210,6 +240,7 @@ A curated list of awesome blockchain, cryptocurrency and fintech resources. Earl
 * [Gatecoin](https://gatecoin.com/)
 * [Gemini](https://gemini.com/)
 * [Huobi](https://www.huobi.com/)
+* [How to Buy Bitcoins](https://howtobuybitcoins.info)
 * [itBit](https://www.itbit.com/h/exchange)
 * [Local Bitcoins](https://localbitcoins.com/)
 * [Kraken](https://www.kraken.com/)
@@ -261,6 +292,7 @@ A curated list of awesome blockchain, cryptocurrency and fintech resources. Earl
 
 ## Data Structures
 
+* [Bloom Filter](https://en.wikipedia.org/wiki/Bloom_filter)
 * [Distributed Hash Table](https://en.wikipedia.org/wiki/Distributed_hash_table)
 * [Merkle Tree](https://en.wikipedia.org/wiki/Merkle_tree)
 * [Patricia Tree (Ethereum)](https://github.com/ethereum/wiki/wiki/Patricia-Tree)
@@ -278,17 +310,20 @@ A curated list of awesome blockchain, cryptocurrency and fintech resources. Earl
 
 ## Bitcoin
 
+* [Awesome Bitcoin](https://github.com/igorbarinov/awesome-bitcoin)
+* [Awesome Bitcoin](https://github.com/JoshuaEstes/awesome-bitcoin)
+* [Awesome Bitcoin Developer](https://github.com/btcbrdev/awesome-btcdev)
+* [Bitcoin.com](http://bitcoin.com/)
 * [Bitcoin.org](https://bitcoin.org)
 * [Bitcoin Core](https://bitcoincore.org/)
 * [Bitcoin Foundation](https://bitcoinfoundation.org/)
 * [Bitcoin Github](https://github.com/bitcoin)
+* [Bitcoin Reddit](https://www.reddit.com/r/Bitcoin/)
+* [Bitcoin Talk](https://bitcointalk.org/)
 * [Bitcoin Wiki](https://en.bitcoin.it/wiki/Main_Page)
+* [BTC Reddit](https://www.reddit.com/r/btc/)
 * [Open Bitcoin Privacy Project](http://www.openbitcoinprivacyproject.org/)
-
-## Bitshares
-
-* [Bitshares](https://bitshares.org/)
-* [Bitshares](https://github.com/bitshares)
+* [Programming Bitcoin Reading List](https://github.com/jashmenn/bitcoin-reading-list)
 
 ## Dash
 
@@ -302,6 +337,8 @@ A curated list of awesome blockchain, cryptocurrency and fintech resources. Earl
 
 ## Ethereum
 
+* [Awesome Ethereum](https://github.com/btomashvili/awesome-ethereum)
+* [Awesome Ethereum](https://github.com/void4/awesome-ethereum)
 * [Ethereum](https://ethereum.org/)
 * [Ethereum Blog](https://blog.ethereum.org/)
 * [Ethereum 101](http://www.ethereum-101.com/)
@@ -354,6 +391,21 @@ A curated list of awesome blockchain, cryptocurrency and fintech resources. Earl
 * [Understanding Cryptography](http://crypto-textbook.com/)
 * [Zero Knowledge Proofs - An Illustrated Primer](http://blog.cryptographyengineering.com/2014/11/zero-knowledge-proofs-illustrated-primer.html)
 
+# Economics
+
+## Crypto-economics
+
+* [Cryptoeconomy](http://p2pfoundation.net/Cryptoeconomy)
+* [Cryptonomics](http://cryptonomics.org/)
+* [How Society Will Be Transformed by Crypto-economics](https://medium.com/@noahthorp/how-society-will-be-transformed-by-crypto-economics-b02b6765ca8c#.u9oayo6v5)
+* [The New Economics of Blockchain](http://mesosoup.com/2015/12/13/the-new-economics-of-blockchain/)
+
+## Money and Banking
+
+* [A Simple Explanation of How Money Moves Around the Banking System](http://gendal.me/2013/11/24/a-simple-explanation-of-how-money-moves-around-the-banking-system/)
+* [Perry Mehrling](www.perrymehrling.com)
+* [Positive Money](http://positivemoney.org/)
+
 # Infrastructure
 
 ## Blockchain
@@ -399,6 +451,9 @@ A curated list of awesome blockchain, cryptocurrency and fintech resources. Earl
 
 ## Smart Contracts
 
+## Bitshares
+
+* [Bitshares](https://bitshares.org/)
 * [COALA - Coalition of Automated Legal Applications](http://coala.global/)
 * [Ethereum](https://ethereum.org/)
 * [Lisk](https://lisk.io/)
@@ -413,8 +468,6 @@ A curated list of awesome blockchain, cryptocurrency and fintech resources. Earl
 * [Digital Currency Group](dcg.co)
 * [Panterra Capital](https://panteracapital.com/)
 
-# Open-source Software
-
 # Research
 
 ## Research - Archives
@@ -428,6 +481,7 @@ A curated list of awesome blockchain, cryptocurrency and fintech resources. Earl
 * [Bitcoin Wiki - Research](https://en.bitcoin.it/wiki/Research)
 * [CABRA - Comprehensive Academic Bitcoin Research Archive](https://github.com/cdecker/btcresearch)
 * [CoinDesk - Top 10 Papers of 2015](http://www.coindesk.com/10-must-read-cryptocurrency-research-papers-from-2015/)
+* [DCC Library](http://www.digitalcurrencycouncil.com/library)
 * [Epic List of Bitcoin Research](https://docs.google.com/spreadsheets/d/1VaWhbAj7hWNdiE73P-W-wrl5a0WNgzjofmZXe0Rh5sg/edit#gid=0)
 * [Hashing It - Research Resources](http://hashingit.com/research-resources)
 * [Institute for Blockchain Studies](http://www.blockchainstudies.org/)
