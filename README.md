@@ -15,7 +15,9 @@ A curated list of awesome blockchain, cryptocurrency and fintech resources. Earl
     * [Documentaries](#documentaries)
     * [Education](#education)
     * [Glossaries](#glossaries)
+    * [History](#history)
     * [Humour](#humour)
+    * [Industry Collaboration](#industry-collaboration)
     * [Infographics](#infographics)
     * [News and Articles](#news-and-articles)
     * [Newsletters](#newsletters)
@@ -44,6 +46,7 @@ A curated list of awesome blockchain, cryptocurrency and fintech resources. Earl
     * [Oracles](#oracles)
     * [Payments](#payments)
     * [Payroll](#payroll)
+    * [Sharing Economy](#sharing economy)
     * [Trade Finance](#trade-finance)
     * [Trading Platforms](#trading-platforms)
     * [Wallets](#wallets)
@@ -87,6 +90,7 @@ A curated list of awesome blockchain, cryptocurrency and fintech resources. Earl
     * [Organisations](#research-organisations)
 * [Technologies](#technology)
     * [Consensus mechanisms](#consensus-mechanisms)
+    * [Cross-chain solutions](#cross-chain-solutions)
     * [Off-chain solutions](#off-chain-solutions)
 
 # General Resources
@@ -172,9 +176,19 @@ A curated list of awesome blockchain, cryptocurrency and fintech resources. Earl
 * [Brave New Coin - Glossary](http://bravenewcoin.com/resources/glossary/)
 * [Ethereum - Glossary](https://github.com/ethereum/wiki/wiki/Glossary)
 
+## History
+
+* [History of Cryptocurrencies (video)](https://www.youtube.com/watch?v=1VYs_zZsorU)
+
 ## Humour
 
 * [Bitcoin Obituaries](https://99bitcoins.com/bitcoinobituaries/)
+
+## Industry Collaboration
+
+* [Blockchain Alliance](http://www.blockchainalliance.org/)
+* [HyperLedger](https://www.hyperledger.org/)
+* [R3 CEV](http://r3cev.com/)
 
 ## Infographics
 
@@ -195,11 +209,11 @@ A curated list of awesome blockchain, cryptocurrency and fintech resources. Earl
 ## Newsletters
 
 * [Crypto Brief](http://cryptobrief.com/)
+* [The Vanbex Report](http://report.vanbex.com/)
 * [The Week in Bitcoin](http://theweekinbitcoin.com/)
 
 ## Organisations
 
-* [Blockchain Alliance](http://www.blockchainalliance.org/)
 * [Digital Currency Council](http://www.digitalcurrencycouncil.com/)
 
 ## Podcasts
@@ -231,8 +245,10 @@ A curated list of awesome blockchain, cryptocurrency and fintech resources. Earl
 
 ## Exchanges
 
+* [Bitfinex](https://www.bitfinex.com/)
 * [BitMEX](https://www.bitmex.com/)
 * [Bitstamp](https://www.bitstamp.net/)
+* [BlockTrades](https://blocktrades.us/)
 * [BTC China](https://btcchina.com)
 * [BTC-e](https://btc-e.com/)
 * [CEX.IO](https://cex.io/)
@@ -244,7 +260,9 @@ A curated list of awesome blockchain, cryptocurrency and fintech resources. Earl
 * [itBit](https://www.itbit.com/h/exchange)
 * [Local Bitcoins](https://localbitcoins.com/)
 * [Kraken](https://www.kraken.com/)
+* [Metaexchange](https://metaexchange.info/)
 * [OKCoin](https://www.okcoin.com)
+* [OpenLedger](https://openledger.info/)
 * [Poloniex](https://poloniex.com/)
 * [Shapeshift](https://shapeshift.io/)
 
@@ -259,6 +277,12 @@ A curated list of awesome blockchain, cryptocurrency and fintech resources. Earl
 ## Identity
 
 * [Onename](https://onename.com/)
+
+## Sharing Economy
+
+* [Arcade City](https://arcade.city/)
+* [Lazooz](http://www.lazooz.org/)
+* [Slock.it](https://slock.it/)
 
 ## Wallets
 
@@ -324,6 +348,11 @@ A curated list of awesome blockchain, cryptocurrency and fintech resources. Earl
 * [BTC Reddit](https://www.reddit.com/r/btc/)
 * [Open Bitcoin Privacy Project](http://www.openbitcoinprivacyproject.org/)
 * [Programming Bitcoin Reading List](https://github.com/jashmenn/bitcoin-reading-list)
+
+## BitShares
+
+* [BitShares.org](https://bitshares.org/)
+* [BitShares Github](https://github.com/bitshares)
 
 ## Dash
 
@@ -512,12 +541,20 @@ A curated list of awesome blockchain, cryptocurrency and fintech resources. Earl
 * [Proof of Stake Resources](https://souptacular.gitbooks.io/ethereum-tutorials-and-tips-by-hudson/content/proof-of-stake_resources.html)
 * [The Benefits of Proof of Work](http://bytemaster.github.io/article/2016/01/04/The-Benefits-of-Proof-of-Work/)
 
-## Off-chain and Cross-chain Solutions
+## Cross-chain Solutions
 
 * [Atomic cross-chain swaps](https://en.bitcoin.it/wiki/Atomic_cross-chain_trading)
 * [BTC Relay](http://btcrelay.org/)
-* [Lightning Network](https://lightning.network/)
+* [Interledger](https://interledger.org/)
 * [Sidechains](https://blockstream.com/sidechains.pdf)
+
+## Off-chain Solutions
+
+* [Lightning Network](https://lightning.network/)
+* [Payment Channels]()
+
+
+
 
 
 
