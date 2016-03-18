@@ -292,6 +292,10 @@ A curated list of awesome blockchain, cryptocurrency and fintech resources. Earl
 
 * [Onename](https://onename.com/)
 
+## Oracles
+
+* [Oraclize](http://www.oraclize.it/)
+
 ## Sharing Economy
 
 * [Arcade City](https://arcade.city/)
