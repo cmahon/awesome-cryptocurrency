@@ -14,6 +14,7 @@ A curated list of awesome blockchain, cryptocurrency and fintech resources. Earl
     * [Distributed Autonomous Entities](#distributed-autonomous-entities)
     * [Documentaries](#documentaries)
     * [Education](#education)
+    * [Futurism](#futurism)
     * [Glossaries](#glossaries)
     * [History](#history)
     * [Humour](#humour)
@@ -24,36 +25,37 @@ A curated list of awesome blockchain, cryptocurrency and fintech resources. Earl
     * [Organisations](#organisations)
     * [Podcasts](#podcasts)
     * [Reports](#reports)
+    * [Smart Contracts and DApps](#smart-contracts-and-dapps)
     * [Tutorials](#tutorials)
 * [Applications and Solutions](applications-and-solutions)
     * [Analytics](#analytics)
-    * [ATMs](#atms)
-    * [Banks](#banks)
-    * [Brokers](#brokers)
-    * [Capital Markets](#capital-markets)
+    * [ATMs (TBC)](#atms)
+    * [Banks (TBC)](#banks)
+    * [Brokers (TBC)](#brokers)
+    * [Capital Markets (TBC)](#capital-markets)
     * [Compliance](#compliance)
     * [Exchanges](#exchanges)
     * [Explorers](#explorers)
-    * [Faucets](#faucets)
-    * [Financial Data](#financial-data)
+    * [Faucets (TBC)](#faucets)
+    * [Financial Data (TBC)](#financial-data)
     * [Identity](#identity)
-    * [Insurance](#insurance)
-    * [Investments](#investments)
-    * [Merchants](#merchants)
-    * [Microtransactions](#microtransactions)
-    * [Money Services](#money-services)
-    * [Notarization](#notarization)
+    * [Insurance (TBC)](#insurance)
+    * [Investments (TBC)](#investments)
+    * [Merchants (TBC)](#merchants)
+    * [Microtransactions (TBC)](#microtransactions)
+    * [Money Services (TBC)](#money-services)
+    * [Notarization (TBC)](#notarization)
     * [Oracles](#oracles)
-    * [Payments](#payments)
-    * [Payroll](#payroll)
+    * [Payments (TBC)](#payments)
+    * [Payroll (TBC)](#payroll)
     * [Sharing Economy](#sharing economy)
-    * [Trade Finance](#trade-finance)
-    * [Trading Platforms](#trading-platforms)
+    * [Trade Finance (TBC)](#trade-finance)
+    * [Trading Platforms (TBC)](#trading-platforms)
     * [Wallets](#wallets)
 * [Computer Science](#computer-science)
     * [Data Structures](#data-structures)
     * [Distributed Systems](#distributed-systems)
-    * [Encoding](#encoding)
+    * [Encoding (TBC)](#encoding)
 * [Cryptocurrencies](#cryptocurrencies)
     * [Bitcoin](#bitcoin)
     * [Dash](#dash)
@@ -75,13 +77,13 @@ A curated list of awesome blockchain, cryptocurrency and fintech resources. Earl
     * [Data Storage](#data-storage)
 * [Investors](#investors)
 * [Middleware and Services](#middleware-and-services)
-    * [APIs](#apis)
-    * [Consultants](#consultants)
+    * [APIs (TBC)](#apis)
+    * [Consultants (TBC)](#consultants)
     * [Meta-Protocols](#meta-protocols)
-    * [Platforms](#platforms)
-    * [Services](#services)
+    * [Platforms (TBC)](#platforms)
+    * [Services (TBC)](#services)
     * [Smart Contracts](#smart-contracts)
-    * [Software Development](#software-development)
+    * [Software Development (TBC)](#software-development)
 * [Research](#research)
     * [Archives](#research-archives)
     * [Collections](#research-collections)
@@ -149,6 +151,7 @@ A curated list of awesome blockchain, cryptocurrency and fintech resources. Earl
 
 * [DAOs, DACs, DAs and More](https://blog.ethereum.org/2014/05/06/daos-dacs-das-and-more-an-incomplete-terminology-guide/)
 * [Distributed Autonomous Organization (Wikipedia)](https://en.wikipedia.org/wiki/Decentralized_autonomous_organization)
+* [DAO (Slock.it)](https://slock.it/dao.html)
 
 ## Documentaries
 
@@ -170,6 +173,10 @@ A curated list of awesome blockchain, cryptocurrency and fintech resources. Earl
 * [The Blockchain Education Network](https://blockchainedu.org/)
 * [University of Nicosia - MOOC/MSc in Digital Currency](http://digitalcurrency.unic.ac.cy/)
 * [University of Maryland - Science of Cryptocurrency](http://www.cs.umd.edu/~elaine/teaching/cryptocurrency/cryptocurrency.html)
+
+## Futurism
+
+* [Blockchain Futures Lab](http://www.iftf.org/blockchainfutureslab/)
 
 ## Glossaries
 
@@ -227,6 +234,13 @@ A curated list of awesome blockchain, cryptocurrency and fintech resources. Earl
 * [Blockchain 2015: Strategic Analysis in Financial Services (William Mougayar)](http://startupmanagement.org/2015/12/22/blockchain-2015-strategic-analysis-in-financial-services-slides-deck/)
 * [Blockchain and Bitcoin 2016: A Survey of Global Leaders (Magister Advisors)](http://magisteradvisors.com/blockchain-bitcoin-2016-a-survey-of-global-leaders/)
 * [State of Bitcoin and Blockchain 2016 (CoinDesk)](http://www.coindesk.com/research/state-bitcoin-blockchain-2016/)
+
+## Smart Contracts and DApps
+
+* [A Gentle Introduction to Smart Contracts](http://bitsonblocks.net/2016/02/01/a-gentle-introduction-to-smart-contracts/)
+* [Contract (Bitcoin wiki)](https://en.bitcoin.it/wiki/Contract)
+* [DAPP development playlist (video)](https://www.youtube.com/playlist?list=PLe9AlNDGZKvBWrkf-tKgEJsu2Y_vrBgwv)
+* [Smart Contracts (Nick Szabo)](http://szabo.best.vwh.net/smart.contracts.html)
 
 ## Tutorials
 
@@ -446,6 +460,13 @@ A curated list of awesome blockchain, cryptocurrency and fintech resources. Earl
 * [IBM Open Blockchain (part of Hyperledger)](https://github.com/openblockchain/obc-docs)
 * [Multichain](http://www.multichain.com/)
 
+## Data Storage
+
+* [Interplanetary File System (IPFS)](https://ipfs.io/)
+* [SAFE Network](https://safenetwork.org/)
+* [Sia](http://sia.tech/)
+* [Storj](http://storj.io/)
+
 ## Mining
 
 * [21inc](https://21.co/)
@@ -457,12 +478,13 @@ A curated list of awesome blockchain, cryptocurrency and fintech resources. Earl
 * [P2Pool](http://p2pool.org/)
 * [Slush Pool](https://slushpool.com)
 
-## Data Storage
+# Investors
 
-* [Interplanetary File System (IPFS)](https://ipfs.io/)
-* [SAFE Network](https://safenetwork.org/)
-* [Sia](http://sia.tech/)
-* [Storj](http://storj.io/)
+* [Blockchain Capital](http://www.blockchain.capital/index.html)
+* [Boost VC](https://www.boost.vc/)
+* [Bitcoin Venture Capital Investments (CoinDesk)](http://www.coindesk.com/bitcoin-venture-capital/)
+* [Digital Currency Group](dcg.co)
+* [Panterra Capital](https://panteracapital.com/)
 
 # Middleware and Services
 
@@ -487,14 +509,6 @@ A curated list of awesome blockchain, cryptocurrency and fintech resources. Earl
 * [Rootstock](http://www.rootstock.io/)
 * [SmartContract](http://about.smartcontract.com/)
 
-# Investors
-
-* [Blockchain Capital](http://www.blockchain.capital/index.html)
-* [Boost VC](https://www.boost.vc/)
-* [Bitcoin Venture Capital Investments (CoinDesk)](http://www.coindesk.com/bitcoin-venture-capital/)
-* [Digital Currency Group](dcg.co)
-* [Panterra Capital](https://panteracapital.com/)
-
 # Research
 
 ## Research - Archives
@@ -511,7 +525,6 @@ A curated list of awesome blockchain, cryptocurrency and fintech resources. Earl
 * [DCC Library](http://www.digitalcurrencycouncil.com/library)
 * [Epic List of Bitcoin Research](https://docs.google.com/spreadsheets/d/1VaWhbAj7hWNdiE73P-W-wrl5a0WNgzjofmZXe0Rh5sg/edit#gid=0)
 * [Hashing It - Research Resources](http://hashingit.com/research-resources)
-* [Institute for Blockchain Studies](http://www.blockchainstudies.org/)
 * [Jeremy Clark - Bibliographies](http://users.encs.concordia.ca/~clark/biblio.php)
 * [Nakamoto Institute - Literature](http://nakamotoinstitute.org/research/)
 * [Nakamoto Institute - Research](http://nakamotoinstitute.org/research/)
@@ -532,6 +545,7 @@ A curated list of awesome blockchain, cryptocurrency and fintech resources. Earl
 * [Bitfury](http://bitfury.com/white-papers-research)
 * [CryptoIQ](http://cryptoiq.ca/)
 * [Dfinity](http://dfinity.io/about.html)
+* [Institute for Blockchain Studies](http://www.blockchainstudies.org/)
 
 # Technologies
 
