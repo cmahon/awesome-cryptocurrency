@@ -36,7 +36,7 @@ A curated list of awesome blockchain, cryptocurrency and fintech resources. Earl
     * [Compliance](#compliance)
     * [Exchanges](#exchanges)
     * [Explorers](#explorers)
-    * [Faucets (TBC)](#faucets)
+    * [Faucets](#faucets)
     * [Financial Data (TBC)](#financial-data)
     * [Identity](#identity)
     * [Insurance (TBC)](#insurance)
@@ -291,6 +291,12 @@ A curated list of awesome blockchain, cryptocurrency and fintech resources. Earl
 * [Smartbit](https://www.smartbit.com.au/)
 * [webbtc](https://webbtc.com/)
 
+## Faucets
+
+* [Coin Jabber](https://www.coinjabber.com/category/bitcoin-faucets)
+* [Makejar](http://bit.makejar.com/)
+* [Paytoshi](https://paytoshi.org/faucets)
+
 ## Identity
 
 * [Onename](https://onename.com/)
@@ -349,6 +355,7 @@ A curated list of awesome blockchain, cryptocurrency and fintech resources. Earl
 * [Consensus and Organising Coffee](https://www.youtube.com/watch?v=jn3DBzr--Ok)
 * [Paxos - A Really Beautiful Algorithm for Distributed Consensus](http://www.goodmath.org/blog/2015/01/30/paxos-a-really-beautiful-protocol-for-distributed-consensus/)
 * [Simpler Consensus with Raft](http://www.goodmath.org/blog/2015/02/14/simpler-consensus-with-raft/)
+* [State machine replication](https://en.wikipedia.org/wiki/State_machine_replication)
 * [What We Talk About When We Talk About Distibuted Systems](https://videlalvaro.github.io/2015/12/learning-about-distributed-systems.html)
 
 ## Encoding
@@ -443,6 +450,7 @@ A curated list of awesome blockchain, cryptocurrency and fintech resources. Earl
 * [Elliptic Curve Cryptography - A Gentle Introduction](http://andrea.corbellini.name/2015/05/17/elliptic-curve-cryptography-a-gentle-introduction/)
 * [Matthew Green - Cryptography Resources](http://blog.cryptographyengineering.com/p/useful-cryptography-resources.html)
 * [The Matasano Crypto Challenges](http://cryptopals.com/)
+* [The Math Behind Bitcoin](http://www.coindesk.com/math-behind-bitcoin/)
 * [Understanding Cryptography](http://crypto-textbook.com/)
 * [Zero Knowledge Proofs - An Illustrated Primer](http://blog.cryptographyengineering.com/2014/11/zero-knowledge-proofs-illustrated-primer.html)
 
@@ -480,7 +488,7 @@ A curated list of awesome blockchain, cryptocurrency and fintech resources. Earl
 * [Sia](http://sia.tech/)
 * [Storj](http://storj.io/)
 
-## Mining
+## Miners
 
 * [21inc](https://21.co/)
 * [Ant Pool](https://www.antpool.com/)
@@ -491,11 +499,16 @@ A curated list of awesome blockchain, cryptocurrency and fintech resources. Earl
 * [P2Pool](http://p2pool.org/)
 * [Slush Pool](https://slushpool.com)
 
+## Mining Equipment
+
+* [Bitmain Tech](https://www.bitmain.com/)
+
 # Investors
 
 * [Blockchain Capital](http://www.blockchain.capital/index.html)
 * [Boost VC](https://www.boost.vc/)
 * [Bitcoin Venture Capital Investments (CoinDesk)](http://www.coindesk.com/bitcoin-venture-capital/)
+* [Coinsilium](http://www.coinsilium.com/)
 * [Digital Currency Group](dcg.co)
 * [Panterra Capital](https://panteracapital.com/)
 
