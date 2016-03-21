@@ -167,6 +167,7 @@ A curated list of awesome blockchain, cryptocurrency and fintech resources. Earl
 * [Blockchain University](http://blockchainu.co/)
 * [CCCC - Certified Bitcoin Professional](https://cryptoconsortium.org/certifications/CBP)
 * [Duke - Innovation and Cryptoventures](https://faculty.fuqua.duke.edu/~charvey/550crypto.htm)
+* [MIT - Blockchain Technologies: Decentralize All The Things](http://blockchain.media.mit.edu/)
 * [Princeton - Bitcoin and Cryptocurrency Technologies](https://www.coursera.org/course/bitcointech)
 * [Stanford - Bitcoin and Crypto Currencies](https://crypto.stanford.edu/cs251/)
 * [Stanford - Bitcoin Engineering](http://bitcoin.stanford.edu/)
@@ -190,6 +191,7 @@ A curated list of awesome blockchain, cryptocurrency and fintech resources. Earl
 ## Humour
 
 * [Bitcoin Obituaries](https://99bitcoins.com/bitcoinobituaries/)
+* [Buttcoin Reddit](https://www.reddit.com/r/Buttcoin)
 
 ## Industry Collaboration
 
@@ -245,6 +247,7 @@ A curated list of awesome blockchain, cryptocurrency and fintech resources. Earl
 ## Tutorials
 
 * [21 Inc - Tutorials](https://21.co/learn/)
+* [DIY Raspberry Pi Cryptocurrency Node](http://raspnode.com/)
 
 # Applications and Solutions
 
@@ -348,6 +351,11 @@ A curated list of awesome blockchain, cryptocurrency and fintech resources. Earl
 * [Simpler Consensus with Raft](http://www.goodmath.org/blog/2015/02/14/simpler-consensus-with-raft/)
 * [What We Talk About When We Talk About Distibuted Systems](https://videlalvaro.github.io/2015/12/learning-about-distributed-systems.html)
 
+## Encoding
+
+* [Base58Check](https://en.bitcoin.it/wiki/Base58Check_encoding)
+* [Recursive Length Prefix (RLP)](https://github.com/ethereum/wiki/wiki/RLP)
+
 # Cryptocurrencies
 
 ## Bitcoin
@@ -442,6 +450,7 @@ A curated list of awesome blockchain, cryptocurrency and fintech resources. Earl
 
 ## Crypto-economics
 
+* [Cryptoeconomics playlist (video)](https://www.youtube.com/playlist?list=PLe9AlNDGZKvD1QpcjepjI8O0suaCIwGZI)
 * [Cryptoeconomy](http://p2pfoundation.net/Cryptoeconomy)
 * [Cryptonomics](http://cryptonomics.org/)
 * [How Society Will Be Transformed by Crypto-economics](https://medium.com/@noahthorp/how-society-will-be-transformed-by-crypto-economics-b02b6765ca8c#.u9oayo6v5)
@@ -524,7 +533,7 @@ A curated list of awesome blockchain, cryptocurrency and fintech resources. Earl
 ## Research - Collections
 
 * [Bitcoin Wiki - Research](https://en.bitcoin.it/wiki/Research)
-* [CABRA - Comprehensive Academic Bitcoin Research Archive](https://github.com/cdecker/btcresearch)
+* [CABRA - Comprehensive Academic Bitcoin Research Archive](http://cdecker.github.io/btcresearch/)
 * [CoinDesk - Top 10 Papers of 2015](http://www.coindesk.com/10-must-read-cryptocurrency-research-papers-from-2015/)
 * [DCC Library](http://www.digitalcurrencycouncil.com/library)
 * [Epic List of Bitcoin Research](https://docs.google.com/spreadsheets/d/1VaWhbAj7hWNdiE73P-W-wrl5a0WNgzjofmZXe0Rh5sg/edit#gid=0)
