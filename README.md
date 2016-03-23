@@ -239,10 +239,14 @@ A curated list of awesome blockchain, cryptocurrency and fintech resources. Earl
 
 ## Smart Contracts and DApps
 
-* [A Gentle Introduction to Smart Contracts](http://bitsonblocks.net/2016/02/01/a-gentle-introduction-to-smart-contracts/)
+* [A Brief Introduction to Smart Contracts (Charles Hoskinson)](https://www.youtube.com/watch?v=3bY66Zgr8Cs&index=3&list=PLe9AlNDGZKvBWrkf-tKgEJsu2Y_vrBgwv)
+* [A Gentle Introduction to Smart Contracts (Anthony Lewis)](http://bitsonblocks.net/2016/02/01/a-gentle-introduction-to-smart-contracts/)
 * [Contract (Bitcoin wiki)](https://en.bitcoin.it/wiki/Contract)
-* [DAPP development playlist (video)](https://www.youtube.com/playlist?list=PLe9AlNDGZKvBWrkf-tKgEJsu2Y_vrBgwv)
+* [DAPP development playlist](https://www.youtube.com/playlist?list=PLe9AlNDGZKvBWrkf-tKgEJsu2Y_vrBgwv)
+* [Formalizing and Securing Relationships on Public Networks (Nick Szabo)](http://szabo.best.vwh.net/formalize.html)
+* [Great Chain of Numbers (Tim Swanson)](http://www.ofnumbers.com/the-guide/)
 * [Smart Contracts (Nick Szabo)](http://szabo.best.vwh.net/smart.contracts.html)
+* [Smart Contracts playlist](https://www.youtube.com/watch?v=xO1AxsYAkU8&list=PLe9AlNDGZKvCKKtmV3WaHIH--C83URzhs)
 
 ## Tutorials
 
