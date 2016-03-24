@@ -152,6 +152,7 @@ A curated list of awesome blockchain, cryptocurrency and fintech resources. Earl
 * [DAOs, DACs, DAs and More](https://blog.ethereum.org/2014/05/06/daos-dacs-das-and-more-an-incomplete-terminology-guide/)
 * [Distributed Autonomous Organization (Wikipedia)](https://en.wikipedia.org/wiki/Decentralized_autonomous_organization)
 * [DAO (Slock.it)](https://slock.it/dao.html)
+* [Ethereum: Fixing the legal problem of the DAO](https://medium.com/@piersbxd/ethereum-fixing-the-legal-problem-of-the-dao-4cae1eea63a6#.x93lgsjse)
 
 ## Documentaries
 
@@ -251,6 +252,7 @@ A curated list of awesome blockchain, cryptocurrency and fintech resources. Earl
 ## Tutorials
 
 * [21 Inc - Tutorials](https://21.co/learn/)
+* [Blockchain Pie](http://blockchainpie.com/)
 * [DIY Raspberry Pi Cryptocurrency Node](http://raspnode.com/)
 
 # Applications and Solutions
@@ -298,6 +300,7 @@ A curated list of awesome blockchain, cryptocurrency and fintech resources. Earl
 ## Faucets
 
 * [Coin Jabber](https://www.coinjabber.com/category/bitcoin-faucets)
+* [Ether Free](http://etherfree.net/)
 * [Makejar](http://bit.makejar.com/)
 * [Paytoshi](https://paytoshi.org/faucets)
 
@@ -355,7 +358,8 @@ A curated list of awesome blockchain, cryptocurrency and fintech resources. Earl
 
 ## Distributed Systems
 
-* [Byzantine Fault Tolerance](https://en.wikipedia.org/wiki/Byzantine_fault_tolerance)
+* [Byzantine Fault Tolerance (Wikipedia)](https://en.wikipedia.org/wiki/Byzantine_fault_tolerance)
+* [Byzantine Fault Tolerance Consensus Papers](https://medium.com/@AFDudley/byzantine-fault-tolerant-consensus-papers-1b4b47d27463#.t2uyvftsp)
 * [Consensus and Organising Coffee](https://www.youtube.com/watch?v=jn3DBzr--Ok)
 * [Paxos - A Really Beautiful Algorithm for Distributed Consensus](http://www.goodmath.org/blog/2015/01/30/paxos-a-really-beautiful-protocol-for-distributed-consensus/)
 * [Simpler Consensus with Raft](http://www.goodmath.org/blog/2015/02/14/simpler-consensus-with-raft/)
@@ -406,12 +410,13 @@ A curated list of awesome blockchain, cryptocurrency and fintech resources. Earl
 * [Awesome Ethereum](https://github.com/btomashvili/awesome-ethereum)
 * [Awesome Ethereum](https://github.com/void4/awesome-ethereum)
 * [Ethereum](https://ethereum.org/)
-* [Ethereum Blog](https://blog.ethereum.org/)
 * [Ethereum 101](http://www.ethereum-101.com/)
+* [Ethereum Blog](https://blog.ethereum.org/)
+* [Ethereum Github](https://github.com/ethereum/)
 * [Ethereum Introduction for Software Developers](http://blog.bok.rocks/cryptocurrency/ethereum-introduction-for-software-developers/)
 * [Ethereum Resource List](https://souptacular.gitbooks.io/ethereum-tutorials-and-tips-by-hudson/content/giant_ethereum_resource_list.html)
+* [Ethereum Resources](http://blog.bok.rocks/cryptocurrency/ethereum-resources/)
 * [Ethereum Starter Guide](https://www.reddit.com/r/ethereum/comments/3vxvlx/starter_guide_almost_all_the_links_youll_need_to/)
-* [Ethereum Github](https://github.com/ethereum/)
 * [Ethereum Wiki](https://github.com/ethereum/wiki)
 * [Ethstats](https://ethstats.net/)
 * [Homestead Release FAQ](https://www.reddit.com/r/ethereum/comments/48arax/homestead_release_faq/)
@@ -473,6 +478,7 @@ A curated list of awesome blockchain, cryptocurrency and fintech resources. Earl
 * [A Simple Explanation of How Money Moves Around the Banking System](http://gendal.me/2013/11/24/a-simple-explanation-of-how-money-moves-around-the-banking-system/)
 * [Perry Mehrling](www.perrymehrling.com)
 * [Positive Money](http://positivemoney.org/)
+* [Understanding Money](http://orcamgroup.com/understanding-money/)
 
 # Infrastructure
 
