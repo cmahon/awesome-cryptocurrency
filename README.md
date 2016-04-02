@@ -134,6 +134,7 @@ A curated list of awesome blockchain, cryptocurrency and fintech resources. Earl
 ## Collections
 
 * [Awesome Blockchain](https://github.com/igorbarinov/awesome-blockchain)
+* [Awesome Decentralization](https://github.com/cserb/awesome-decentralization)
 * [Awesome Decentralized](https://github.com/steve-vincent/awesome-decentralized)
 * [Awesome Peer-to-peer](https://github.com/kgryte/awesome-peer-to-peer)
 * [Bitcoin.org - Resources](https://bitcoin.org/en/resources)
@@ -146,6 +147,7 @@ A curated list of awesome blockchain, cryptocurrency and fintech resources. Earl
 ## Directories
 
 * [Coinmap](https://coinmap.org)
+* [List of Bitcoin Companies (Wikipedia)](https://en.wikipedia.org/wiki/List_of_bitcoin_companies)
 
 ## Distributed Autonomous Entities
 
@@ -350,6 +352,7 @@ A curated list of awesome blockchain, cryptocurrency and fintech resources. Earl
 
 ## Data Structures
 
+* [Blockchain](https://en.wikipedia.org/wiki/Block_chain_%28database%29)
 * [Bloom Filter](https://en.wikipedia.org/wiki/Bloom_filter)
 * [Distributed Hash Table](https://en.wikipedia.org/wiki/Distributed_hash_table)
 * [Merkle Tree](https://en.wikipedia.org/wiki/Merkle_tree)
@@ -387,6 +390,7 @@ A curated list of awesome blockchain, cryptocurrency and fintech resources. Earl
 * [Bitcoin Talk](https://bitcointalk.org/)
 * [Bitcoin Wiki](https://en.bitcoin.it/wiki/Main_Page)
 * [BTC Reddit](https://www.reddit.com/r/btc/)
+* [Coin Center](http://coincenter.org/)
 * [Open Bitcoin Privacy Project](http://www.openbitcoinprivacyproject.org/)
 * [Programming Bitcoin Reading List](https://github.com/jashmenn/bitcoin-reading-list)
 
@@ -408,6 +412,7 @@ A curated list of awesome blockchain, cryptocurrency and fintech resources. Earl
 ## Ethereum
 
 * [Awesome Ethereum](https://github.com/btomashvili/awesome-ethereum)
+* [Awesome Ethereum](https://github.com/vinsgo/awesome-ethereum)
 * [Awesome Ethereum](https://github.com/void4/awesome-ethereum)
 * [Ethereum](https://ethereum.org/)
 * [Ethereum 101](http://www.ethereum-101.com/)
@@ -456,6 +461,7 @@ A curated list of awesome blockchain, cryptocurrency and fintech resources. Earl
 
 * [A Graduate Course in Applied Cryptography](https://crypto.stanford.edu/~dabo/cryptobook/)
 * [Coursera - Cryptography 1](https://www.coursera.org/learn/crypto)
+* [Cryptographic Hash Functions (Wikipedia)](https://en.wikipedia.org/wiki/Cryptographic_hash_function)
 * [Elliptic Curve Cryptography - A Gentle Introduction](http://andrea.corbellini.name/2015/05/17/elliptic-curve-cryptography-a-gentle-introduction/)
 * [Matthew Green - Cryptography Resources](http://blog.cryptographyengineering.com/p/useful-cryptography-resources.html)
 * [The Matasano Crypto Challenges](http://cryptopals.com/)
@@ -515,9 +521,11 @@ A curated list of awesome blockchain, cryptocurrency and fintech resources. Earl
 
 # Investors
 
-* [Blockchain Capital](http://www.blockchain.capital/index.html)
-* [Boost VC](https://www.boost.vc/)
+* [Bitcoin Investment Trust](http://grayscale.co/bitcoin-investment-trust/)
 * [Bitcoin Venture Capital Investments (CoinDesk)](http://www.coindesk.com/bitcoin-venture-capital/)
+* [Blockchain Capital](http://www.blockchain.capital/index.html)
+* [BnkToTheFuture.com](https://bnktothefuture.com/)
+* [Boost VC](https://www.boost.vc/)
 * [Coinsilium](http://www.coinsilium.com/)
 * [Digital Currency Group](dcg.co)
 * [Panterra Capital](https://panteracapital.com/)
@@ -587,8 +595,11 @@ A curated list of awesome blockchain, cryptocurrency and fintech resources. Earl
 
 ## Consensus Mechanisms
 
+* [Delegated Proof of Stake (BitShares)](https://bitshares.org/technology/delegated-proof-of-stake-consensus/)
 * [Nothing is Cheaper Than Proof Of Work](http://www.truthcoin.info/blog/pow-cheapest/)
+* [Proof of Stake (Wikipedia)](https://en.wikipedia.org/wiki/Proof-of-stake)
 * [Proof of Stake Resources](https://souptacular.gitbooks.io/ethereum-tutorials-and-tips-by-hudson/content/proof-of-stake_resources.html)
+* [Proof of Work (Wikipedia)](https://en.wikipedia.org/wiki/Proof-of-work_system)
 * [The Benefits of Proof of Work](http://bytemaster.github.io/article/2016/01/04/The-Benefits-of-Proof-of-Work/)
 
 ## Cross-chain Solutions
