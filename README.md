@@ -8,6 +8,7 @@ A curated list of awesome blockchain, cryptocurrency and fintech resources. Earl
     * [Blogs](#blogs)
     * [Books](#books)
     * [Charts and Data](#charts-and-data)
+    * [Classification](#classification)
     * [Collections](#collections)
     * [Conferences](#conferences)
     * [Directories](#directories)
@@ -130,6 +131,10 @@ A curated list of awesome blockchain, cryptocurrency and fintech resources. Earl
 * [Smartbit - Charts](https://www.smartbit.com.au/charts)
 * [TradeBlock](https://tradeblock.com/markets)
 * [Trading View](https://www.tradingview.com/chart/)
+
+## Classification
+
+* [A Simple Model to Make Sense of Distributed Ledger Projects](http://gendal.me/2014/12/19/a-simple-model-to-make-sense-of-the-proliferation-of-distributed-ledger-smart-contract-and-cryptocurrency-projects/)
 
 ## Collections
 
