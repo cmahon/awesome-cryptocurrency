@@ -28,35 +28,10 @@ A curated list of awesome blockchain, cryptocurrency and fintech resources. Earl
     * [Reports](#reports)
     * [Smart Contracts and DApps](#smart-contracts-and-dapps)
     * [Tutorials](#tutorials)
-* [Applications and Solutions](applications-and-solutions)
-    * [Analytics](#analytics)
-    * [ATMs (TBC)](#atms)
-    * [Banks (TBC)](#banks)
-    * [Brokers (TBC)](#brokers)
-    * [Capital Markets (TBC)](#capital-markets)
-    * [Compliance](#compliance)
-    * [Exchanges](#exchanges)
-    * [Explorers](#explorers)
-    * [Faucets](#faucets)
-    * [Financial Data (TBC)](#financial-data)
-    * [Identity](#identity)
-    * [Insurance (TBC)](#insurance)
-    * [Investments (TBC)](#investments)
-    * [Merchants (TBC)](#merchants)
-    * [Microtransactions (TBC)](#microtransactions)
-    * [Money Services (TBC)](#money-services)
-    * [Notarization (TBC)](#notarization)
-    * [Oracles](#oracles)
-    * [Payments (TBC)](#payments)
-    * [Payroll (TBC)](#payroll)
-    * [Sharing Economy](#sharing economy)
-    * [Trade Finance (TBC)](#trade-finance)
-    * [Trading Platforms (TBC)](#trading-platforms)
-    * [Wallets](#wallets)
 * [Computer Science](#computer-science)
     * [Data Structures](#data-structures)
     * [Distributed Systems](#distributed-systems)
-    * [Encoding (TBC)](#encoding)
+    * [Encoding](#encoding)
 * [Cryptocurrencies](#cryptocurrencies)
     * [Bitcoin](#bitcoin)
     * [Dash](#dash)
@@ -77,20 +52,43 @@ A curated list of awesome blockchain, cryptocurrency and fintech resources. Earl
     * [Mining](#mining)
     * [Data Storage](#data-storage)
 * [Investors](#investors)
-* [Middleware and Services](#middleware-and-services)
-    * [APIs (TBC)](#apis)
-    * [Consultants (TBC)](#consultants)
-    * [Meta-Protocols](#meta-protocols)
-    * [Platforms (TBC)](#platforms)
-    * [Services (TBC)](#services)
-    * [Smart Contracts](#smart-contracts)
-    * [Software Development (TBC)](#software-development)
 * [Research](#research)
     * [Archives](#research-archives)
     * [Collections](#research-collections)
     * [Individuals](#research-individuals)
     * [Journals](#research-journals)
     * [Organisations](#research-organisations)
+* [Solutions](solutions)
+    * [Analytics](#analytics)
+    * [APIs (TBC)](#apis)
+    * [ATMs (TBC)](#atms)
+    * [Banks (TBC)](#banks)
+    * [Brokers (TBC)](#brokers)
+    * [Capital Markets (TBC)](#capital-markets)
+    * [Consultants](#consultants)
+    * [Development Tools](#development-tools)
+    * [Exchanges](#exchanges)
+    * [Explorers](#explorers)
+    * [Faucets](#faucets)
+    * [Financial Data (TBC)](#financial-data)
+    * [Identity](#identity)
+    * [Insurance (TBC)](#insurance)
+    * [Investment (TBC)](#investment)
+    * [Merchants (TBC)](#merchants)
+    * [Meta-Protocols](#meta-protocols)
+    * [Microtransactions (TBC)](#microtransactions)
+    * [Money Services (TBC)](#money-services)
+    * [Notarization (TBC)](#notarization)
+    * [Oracles](#oracles)
+    * [Payments (TBC)](#payments)
+    * [Payroll (TBC)](#payroll)
+    * [Platforms](#platforms)
+    * [Services (TBC)](#services)
+    * [Sharing Economy](#sharing economy)
+    * [Smart Contracts](#smart-contracts)
+    * [Trade Finance (TBC)](#trade-finance)
+    * [Trading Platforms (TBC)](#trading-platforms)
+    * [Wallets](#wallets)
 * [Technologies](#technology)
     * [Consensus mechanisms](#consensus-mechanisms)
     * [Cross-chain solutions](#cross-chain-solutions)
@@ -157,6 +155,7 @@ A curated list of awesome blockchain, cryptocurrency and fintech resources. Earl
 ## Distributed Autonomous Entities
 
 * [DAOs, DACs, DAs and More](https://blog.ethereum.org/2014/05/06/daos-dacs-das-and-more-an-incomplete-terminology-guide/)
+* [Defining A Legal Framework For Decentralized Autonomous Organizations (audio)](https://epicenterbitcoin.com/podcast/125/)
 * [Distributed Autonomous Organization (Wikipedia)](https://en.wikipedia.org/wiki/Decentralized_autonomous_organization)
 * [DAO (Slock.it)](https://slock.it/dao.html)
 * [Ethereum: Fixing the legal problem of the DAO](https://medium.com/@piersbxd/ethereum-fixing-the-legal-problem-of-the-dao-4cae1eea63a6#.x93lgsjse)
@@ -262,97 +261,6 @@ A curated list of awesome blockchain, cryptocurrency and fintech resources. Earl
 * [Blockchain Pie](http://blockchainpie.com/)
 * [DIY Raspberry Pi Cryptocurrency Node](http://raspnode.com/)
 
-# Applications and Solutions
-
-## Analytics
-
-* [Coinalytics](http://coinalytics.co/)
-
-## Compliance
-
-* [Chainalysis](https://chainalysis.com/)
-* [Elliptic](https://www.elliptic.co/)
-
-## Exchanges
-
-* [Bitfinex](https://www.bitfinex.com/)
-* [BitMEX](https://www.bitmex.com/)
-* [Bitstamp](https://www.bitstamp.net/)
-* [BlockTrades](https://blocktrades.us/)
-* [BTC China](https://btcchina.com)
-* [BTC-e](https://btc-e.com/)
-* [CEX.IO](https://cex.io/)
-* [Coinbase](https://www.coinbase.com/)
-* [Gatecoin](https://gatecoin.com/)
-* [Gemini](https://gemini.com/)
-* [Huobi](https://www.huobi.com/)
-* [How to Buy Bitcoins](https://howtobuybitcoins.info)
-* [itBit](https://www.itbit.com/h/exchange)
-* [Local Bitcoins](https://localbitcoins.com/)
-* [Kraken](https://www.kraken.com/)
-* [Metaexchange](https://metaexchange.info/)
-* [OKCoin](https://www.okcoin.com)
-* [OpenLedger](https://openledger.info/)
-* [Poloniex](https://poloniex.com/)
-* [Shapeshift](https://shapeshift.io/)
-
-## Explorers
-
-* [Blockr](http://blockr.io/)
-* [Blockchain.info](https://blockchain.info/)
-* [etherchain.org](https://etherchain.org/)
-* [Smartbit](https://www.smartbit.com.au/)
-* [webbtc](https://webbtc.com/)
-
-## Faucets
-
-* [Coin Jabber](https://www.coinjabber.com/category/bitcoin-faucets)
-* [Ether Free](http://etherfree.net/)
-* [Makejar](http://bit.makejar.com/)
-* [Paytoshi](https://paytoshi.org/faucets)
-
-## Identity
-
-* [Onename](https://onename.com/)
-
-## Oracles
-
-* [Oraclize](http://www.oraclize.it/)
-
-## Sharing Economy
-
-* [Arcade City](https://arcade.city/)
-* [Lazooz](http://www.lazooz.org/)
-* [Slock.it](https://slock.it/)
-
-## Wallets
-
-* [ArcBit](http://arcbit.io/)
-* [Armory](http://www.bitcoinarmory.com/)
-* [Bitcoin Wallet](https://bitcoinwallet.com/)
-* [Blockchain.info](https://blockchain.info/)
-* [breadwallet](http://breadwallet.com/)
-* [Case Wallet](https://choosecase.com/)
-* [Coinbase](https://www.coinbase.com/)
-* [BitGo](https://www.bitgo.com/)
-* [Coinkite](https://coinkite.com/)
-* [Coinprism](https://www.coinprism.com/)
-* [Copay](http://copay.io/)
-* [Darkwallet](https://www.darkwallet.is/)
-* [Airbitz](https://airbitz.co/)
-* [Electrum](https://electrum.org/#home)
-* [GreenAddress](https://greenaddress.it/en/)
-* [Hive](https://www.hivewallet.com/)
-* [KeepKey](https://www.keepkey.com/)
-* [Ledger Wallet](https://www.ledgerwallet.com/)
-* [LUXSTACK](https://luxstack.com/#!/)
-* [MultiBit HD](https://multibit.org/)
-* [Mycelium](https://mycelium.com/)
-* [Pi-Wallet](http://www.pi-wallet.com/)
-* [Samourai Wallet](http://www.samouraiwallet.com/index.html)
-* [TREZOR](https://www.bitcointrezor.com/)
-* [Xapo](https://xapo.com/wallet/)
-
 # Computer Science
 
 ## Data Structures
@@ -430,6 +338,7 @@ A curated list of awesome blockchain, cryptocurrency and fintech resources. Earl
 * [Ethereum Wiki](https://github.com/ethereum/wiki)
 * [Ethstats](https://ethstats.net/)
 * [Homestead Release FAQ](https://www.reddit.com/r/ethereum/comments/48arax/homestead_release_faq/)
+* [Solidity Workshop](https://github.com/androlo/solidity-workshop)
 * [State of the Dapps](http://dapps.ethercasts.com/)
 
 ## Litecoin
@@ -495,11 +404,11 @@ A curated list of awesome blockchain, cryptocurrency and fintech resources. Earl
 
 ## Blockchain
 
-* [Blockapps](http://blockapps.net/)
 * [Credits](http://credits.vision/)
 * [Guardtime](https://guardtime.com/)
 * [Hyperledger](https://www.hyperledger.org/)
 * [IBM Open Blockchain (part of Hyperledger)](https://github.com/openblockchain/obc-docs)
+* [Juno](https://github.com/buckie/juno)
 * [Multichain](http://www.multichain.com/)
 
 ## Data Storage
@@ -508,6 +417,7 @@ A curated list of awesome blockchain, cryptocurrency and fintech resources. Earl
 * [SAFE Network](https://safenetwork.org/)
 * [Sia](http://sia.tech/)
 * [Storj](http://storj.io/)
+* [Tahoe-LAFS](https://tahoe-lafs.org/trac/tahoe-lafs)
 
 ## Miners
 
@@ -534,29 +444,6 @@ A curated list of awesome blockchain, cryptocurrency and fintech resources. Earl
 * [Coinsilium](http://www.coinsilium.com/)
 * [Digital Currency Group](dcg.co)
 * [Panterra Capital](https://panteracapital.com/)
-
-# Middleware and Services
-
-## Meta-Protocols
-
-* [Bitbind](https://bitbind.io/)
-* [Chromaway](http://chromaway.com/research/)
-* [CoinSpark](http://coinspark.org/)
-* [Counterparty](http://counterparty.io/docs/protocol_specification/)
-* [Colored Coins](http://coloredcoins.org/)
-* [COLU](https://www.colu.co/)
-* [Factom](http://factom.org/)
-* [Omni Layer](https://github.com/OmniLayer/spec)
-* [Open Assets](https://github.com/OpenAssets/open-assets-protocol)
-
-## Smart Contracts
-
-* [Bitshares](https://bitshares.org/)
-* [COALA - Coalition of Automated Legal Applications](http://coala.global/)
-* [Ethereum](https://ethereum.org/)
-* [Lisk](https://lisk.io/)
-* [Rootstock](http://www.rootstock.io/)
-* [SmartContract](http://about.smartcontract.com/)
 
 # Research
 
@@ -595,6 +482,139 @@ A curated list of awesome blockchain, cryptocurrency and fintech resources. Earl
 * [CryptoIQ](http://cryptoiq.ca/)
 * [Dfinity](http://dfinity.io/about.html)
 * [Institute for Blockchain Studies](http://www.blockchainstudies.org/)
+
+# Solutions
+
+## Analytics and Compliance
+
+* [BlockSeer](https://www.blockseer.com/)
+* [Chainalysis](https://chainalysis.com/)
+* [Coinalytics](http://coinalytics.co/)
+* [Elliptic](https://www.elliptic.co/)
+* [Scorechain](https://www.scorechain.com/)
+
+## Consultants
+
+* [B9lab](http://b9lab.com/)
+* [Chainsmiths](http://chainsmiths.com/)
+* [Ledger Labs](https://ledgerlabs.io/)
+
+## Development Tools
+
+* [BlockApps](http://blockapps.net/)
+* [Bloq](http://bloq.com/)
+* [Eris Industries](https://erisindustries.com/)
+
+## Exchanges
+
+* [Bitfinex](https://www.bitfinex.com/)
+* [BitMEX](https://www.bitmex.com/)
+* [Bitstamp](https://www.bitstamp.net/)
+* [BlockTrades](https://blocktrades.us/)
+* [BTC China](https://btcchina.com)
+* [BTC-e](https://btc-e.com/)
+* [CEX.IO](https://cex.io/)
+* [Coinbase](https://www.coinbase.com/)
+* [Gatecoin](https://gatecoin.com/)
+* [Gemini](https://gemini.com/)
+* [Huobi](https://www.huobi.com/)
+* [How to Buy Bitcoins](https://howtobuybitcoins.info)
+* [itBit](https://www.itbit.com/h/exchange)
+* [Local Bitcoins](https://localbitcoins.com/)
+* [Kraken](https://www.kraken.com/)
+* [Metaexchange](https://metaexchange.info/)
+* [OKCoin](https://www.okcoin.com)
+* [OpenLedger](https://openledger.info/)
+* [Poloniex](https://poloniex.com/)
+* [Shapeshift](https://shapeshift.io/)
+
+## Explorers
+
+* [Blockr](http://blockr.io/)
+* [Blockchain.info](https://blockchain.info/)
+* [etherchain.org](https://etherchain.org/)
+* [Smartbit](https://www.smartbit.com.au/)
+* [webbtc](https://webbtc.com/)
+
+## Faucets
+
+* [Coin Jabber](https://www.coinjabber.com/category/bitcoin-faucets)
+* [Ether Free](http://etherfree.net/)
+* [Makejar](http://bit.makejar.com/)
+* [Paytoshi](https://paytoshi.org/faucets)
+
+## Identity
+
+* [Onename](https://onename.com/)
+
+## Meta-Protocols
+
+* [Bitbind](https://bitbind.io/)
+* [Chromaway](http://chromaway.com/research/)
+* [CoinSpark](http://coinspark.org/)
+* [Counterparty](http://counterparty.io/docs/protocol_specification/)
+* [Colored Coins](http://coloredcoins.org/)
+* [COLU](https://www.colu.co/)
+* [Factom](http://factom.org/)
+* [Omni Layer](https://github.com/OmniLayer/spec)
+* [Open Assets](https://github.com/OpenAssets/open-assets-protocol)
+
+## Oracles
+
+* [Oraclize](http://www.oraclize.it/)
+
+## Platforms
+
+* [Microsoft Azure Blockchain as a Service (BaaS)](https://azure.microsoft.com/en-us/solutions/blockchain/)
+* [Red Hat OpenShift Blockchain Initiative](https://www.openshift.com/dedicated/blockchain.html)
+
+## Sharing Economy
+
+* [Arcade City](https://arcade.city/)
+* [Lazooz](http://www.lazooz.org/)
+* [Slock.it](https://slock.it/)
+
+## Smart Contracts
+
+* [Bitshares](https://bitshares.org/)
+* [COALA - Coalition of Automated Legal Applications](http://coala.global/)
+* [Ethereum](https://ethereum.org/)
+* [Lisk](https://lisk.io/)
+* [Rootstock](http://www.rootstock.io/)
+* [SmartContract](http://about.smartcontract.com/)
+
+## Studios
+
+* [Consensys](https://consensys.net/)
+
+## Wallets
+
+* [ArcBit](http://arcbit.io/)
+* [Armory](http://www.bitcoinarmory.com/)
+* [Bitcoin Wallet](https://bitcoinwallet.com/)
+* [Blockchain.info](https://blockchain.info/)
+* [breadwallet](http://breadwallet.com/)
+* [Case Wallet](https://choosecase.com/)
+* [Coinbase](https://www.coinbase.com/)
+* [BitGo](https://www.bitgo.com/)
+* [Coinkite](https://coinkite.com/)
+* [Coinprism](https://www.coinprism.com/)
+* [Copay](http://copay.io/)
+* [Darkwallet](https://www.darkwallet.is/)
+* [Airbitz](https://airbitz.co/)
+* [Electrum](https://electrum.org/#home)
+* [GreenAddress](https://greenaddress.it/en/)
+* [Hive](https://www.hivewallet.com/)
+* [KeepKey](https://www.keepkey.com/)
+* [Ledger Wallet](https://www.ledgerwallet.com/)
+* [LUXSTACK](https://luxstack.com/#!/)
+* [MultiBit HD](https://multibit.org/)
+* [Mycelium](https://mycelium.com/)
+* [Opendime](http://www.opendime.com/)
+* [Pi-Wallet](http://www.pi-wallet.com/)
+* [Samourai Wallet](http://www.samouraiwallet.com/index.html)
+* [TREZOR](https://www.bitcointrezor.com/)
+* [Xapo](https://xapo.com/wallet/)
 
 # Technologies
 
