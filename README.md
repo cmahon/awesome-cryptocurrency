@@ -58,7 +58,7 @@ A curated list of awesome blockchain, cryptocurrency and fintech resources. Earl
     * [Individuals](#research-individuals)
     * [Journals](#research-journals)
     * [Organisations](#research-organisations)
-* [Solutions](solutions)
+* [Solutions](#solutions)
     * [Analytics](#analytics)
     * [APIs (TBC)](#apis)
     * [ATMs (TBC)](#atms)
@@ -84,7 +84,7 @@ A curated list of awesome blockchain, cryptocurrency and fintech resources. Earl
     * [Payroll (TBC)](#payroll)
     * [Platforms](#platforms)
     * [Services (TBC)](#services)
-    * [Sharing Economy](#sharing economy)
+    * [Sharing Economy](#sharing-economy)
     * [Smart Contracts](#smart-contracts)
     * [Trade Finance (TBC)](#trade-finance)
     * [Trading Platforms (TBC)](#trading-platforms)
@@ -193,6 +193,7 @@ A curated list of awesome blockchain, cryptocurrency and fintech resources. Earl
 
 ## History
 
+* [History of Bitcoin (to early 2014)](http://historyofbitcoin.org/)
 * [History of Cryptocurrencies (video)](https://www.youtube.com/watch?v=1VYs_zZsorU)
 
 ## Humour
