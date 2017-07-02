@@ -355,7 +355,7 @@ A curated list of awesome blockchain, cryptocurrency and fintech resources. Earl
 * [Awesome Ethereum](https://github.com/vinsgo/awesome-ethereum)
 * [Awesome Ethereum](https://github.com/void4/awesome-ethereum)
 * [Ethereum](https://ethereum.org/)
-* [Ethereum 101](http://www.ethereum-101.com/)
+* [Ethereum 101](http://www.ethereum101.org/)
 * [Ethereum Blog](https://blog.ethereum.org/)
 * [Ethereum Github](https://github.com/ethereum/)
 * [Ethereum Introduction for Software Developers](http://blog.bok.rocks/cryptocurrency/ethereum-introduction-for-software-developers/)
