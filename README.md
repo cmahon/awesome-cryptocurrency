@@ -153,6 +153,7 @@ A curated list of awesome blockchain, cryptocurrency and fintech resources. Earl
 * [The Bitcoin Ecosystem](http://thebitcoinecosystem.info/)
 * [Bitcoin.org - Resources](https://bitcoin.org/en/resources)
 * [Decentral Station](https://decentralstation.squarespace.com/)
+* [Blockply](https://blockply.com/)
 
 ## Conferences
 
