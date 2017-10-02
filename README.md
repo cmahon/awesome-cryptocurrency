@@ -111,6 +111,7 @@ A curated list of awesome blockchain, cryptocurrency and fintech resources. Earl
 * [Hashing It](http://hashingit.com/)
 * [R3 CEV](http://r3cev.com/blog/)
 * [Richard Gendal Brown](http://gendal.me/)
+* [Altcoin Trading](https://www.altcointrading.net)
 
 ## Books
 
