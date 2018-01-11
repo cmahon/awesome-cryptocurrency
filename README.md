@@ -238,6 +238,7 @@ A curated list of awesome blockchain, cryptocurrency and fintech resources. Earl
 * [Forklog](http://forklog.net/)
 * [The Merkle](http://themerkle.com/)
 * [Zero Block](https://zeroblock.com/)
+* [CryptoAudio](http://cryptoaud.io/)
 
 ## Newsletters
 
