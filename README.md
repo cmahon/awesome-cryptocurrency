@@ -127,6 +127,7 @@ A curated list of awesome blockchain, cryptocurrency and fintech resources. Earl
 * [Bitnodes](https://bitnodes.21.co/)
 * [Coinmarketcap](http://coinmarketcap.com/)
 * [Coin Dance](https://coin.dance/)
+* [CoinScanner.co](https://coinscanner.co/)
 * [Cryptocoin Charts](http://www.cryptocoincharts.info/)
 * [Cryptocompare](https://www.cryptocompare.com/)
 * [CryptoIndex](http://cryptoindex.com)
