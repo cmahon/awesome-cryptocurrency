@@ -135,6 +135,7 @@ A curated list of awesome blockchain, cryptocurrency and fintech resources. Earl
 * [Smartbit - Charts](https://www.smartbit.com.au/charts)
 * [TradeBlock](https://tradeblock.com/markets)
 * [Trading View](https://www.tradingview.com/chart/)
+* [Amulet - Sentiment Data](https://amuletplatform.com/data/coin/84)
 
 ## Classification
 
