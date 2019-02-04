@@ -183,6 +183,7 @@ A curated list of awesome blockchain, cryptocurrency and fintech resources. Earl
 ## Education
 
 * [Berkeley - Secure and Intelligent Programming](http://inst.eecs.berkeley.edu/~cs294-116/fa15/)
+* [Binance Academy - Blockchain and Cryptocurrency Education](https://www.binance.vision)
 * [Blockchain University](http://blockchainu.co/)
 * [CCCC - Certified Bitcoin Professional](https://cryptoconsortium.org/certifications/CBP)
 * [Duke - Innovation and Cryptoventures](https://faculty.fuqua.duke.edu/~charvey/550crypto.htm)
@@ -201,11 +202,13 @@ A curated list of awesome blockchain, cryptocurrency and fintech resources. Earl
 
 ## Glossaries
 
+* [Binance Academy - Glossary](https://www.binance.vision/glossary)
 * [Brave New Coin - Glossary](http://bravenewcoin.com/resources/glossary/)
 * [Ethereum - Glossary](https://github.com/ethereum/wiki/wiki/Glossary)
 
 ## History
 
+* [History of Blockchain - Explained](https://www.binance.vision/blockchain/history-of-blockchain)
 * [History of Bitcoin (to early 2014)](http://historyofbitcoin.org/)
 * [History of Cryptocurrencies (video)](https://www.youtube.com/watch?v=1VYs_zZsorU)
 * [The Blockchain Timeline](https://blog.gem.co/the-blockchain-timeline-3fdffe281378#.liq52jq7g)
