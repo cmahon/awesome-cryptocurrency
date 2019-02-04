@@ -562,6 +562,7 @@ A curated list of awesome blockchain, cryptocurrency and fintech resources. Earl
 
 ## Exchanges
 
+* [Binance](https://www.binance.com/)
 * [Bitfinex](https://www.bitfinex.com/)
 * [BitMEX](https://www.bitmex.com/)
 * [Bitstamp](https://www.bitstamp.net/)
