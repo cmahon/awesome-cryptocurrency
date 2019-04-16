@@ -129,6 +129,7 @@ A curated list of awesome blockchain, cryptocurrency and fintech resources. Earl
 * [Coin Dance](https://coin.dance/)
 * [Cryptocoin Charts](http://www.cryptocoincharts.info/)
 * [Cryptocompare](https://www.cryptocompare.com/)
+* [Cryptocurrency Alerting](https://cryptocurrencyalerting.com)
 * [CryptoIndex](http://cryptoindex.com)
 * [Cryptomon](https://cryptomon.io/)
 * [Cryptowatch](https://cryptowat.ch/)
