@@ -94,7 +94,7 @@ A curated list of awesome blockchain, cryptocurrency and fintech resources. Earl
     * [Trade Finance (TBC)](#trade-finance)
     * [Trading Platforms (TBC)](#trading-platforms)
     * [Wallets](#wallets)
-    * [Taxes][#taxes)
+    * [Taxes](#taxes)
 * [Technologies](#technology)
     * [Consensus mechanisms](#consensus-mechanisms)
     * [Cross-chain solutions](#cross-chain-solutions)
